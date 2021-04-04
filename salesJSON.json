@@ -9,7 +9,7 @@
    "make": "MISC",
    "model": "BWRP",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ADAMS,JRROBER88",
@@ -21,7 +21,7 @@
    "make": "JOHN DEERE",
    "model": "Z355E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ALEXANDEC13252",
@@ -33,7 +33,7 @@
    "make": "LMC",
    "model": "G60-500A",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ALEXANDEC13252",
@@ -45,7 +45,7 @@
    "make": "JOHN DEERE",
    "model": "835M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ARWOODMICHAEL65",
@@ -57,7 +57,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": null,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "AUBUNIVC12752",
@@ -69,7 +69,7 @@
    "make": "KUHN",
    "model": "GF7802TGII",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "AUBUNIVC12752",
@@ -81,7 +81,7 @@
    "make": "KUHN",
    "model": "GMD3151TL",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "AUBUNIVC12752",
@@ -93,7 +93,7 @@
    "make": "JOHN DEERE",
    "model": "XUV865M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "AUTOFINANCECA51",
@@ -105,7 +105,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "AUTOFINANCECA51",
@@ -117,7 +117,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BEANTIMMY368606",
@@ -129,7 +129,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BECKSC13001",
@@ -141,7 +141,7 @@
    "make": "JOHN DEERE",
    "model": "5075E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BECKSC13001",
@@ -153,7 +153,7 @@
    "make": "JOHN DEERE",
    "model": "5075E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BETHUNERAY05",
@@ -165,7 +165,7 @@
    "make": "JOHN DEERE",
    "model": "60D IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BETHUNERAY05",
@@ -177,7 +177,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIANCHITIMOTH13",
@@ -189,7 +189,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIANCHITIMOTH13",
@@ -201,7 +201,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIANCHITIMOTH13",
@@ -213,7 +213,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIANCHITIMOTH13",
@@ -225,7 +225,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIERLYJERRY77",
@@ -237,7 +237,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BIERLYJERRY77",
@@ -249,7 +249,7 @@
    "make": "JOHN DEERE",
    "model": "5075E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BISHOPBRENT3006",
@@ -261,7 +261,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BISHOPBRENT3006",
@@ -273,7 +273,7 @@
    "make": "FRONTIER",
    "model": "DH1066",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -285,7 +285,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -297,7 +297,7 @@
    "make": "JOHN DEERE",
    "model": "1023E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -309,7 +309,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -321,7 +321,7 @@
    "make": "JOHN DEERE",
    "model": "1023E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -333,7 +333,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -345,7 +345,7 @@
    "make": "JOHN DEERE",
    "model": "54D IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -357,7 +357,7 @@
    "make": "JOHN DEERE",
    "model": "1023E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BONNIEPC12873",
@@ -369,7 +369,7 @@
    "make": "JOHN DEERE",
    "model": "1023E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BOSTDON04",
@@ -381,7 +381,7 @@
    "make": "JOHN DEERE",
    "model": "X730",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BOSTDON04",
@@ -393,7 +393,7 @@
    "make": "JOHN DEERE",
    "model": "54 IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BROWNJONATHAN45",
@@ -405,7 +405,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BROWNROBERT37",
@@ -417,7 +417,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BROWNROBERT37",
@@ -429,7 +429,7 @@
    "make": "JOHN DEERE",
    "model": "5055E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BROWNROBERT37",
@@ -441,7 +441,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BROWNROBERTMO38",
@@ -453,7 +453,7 @@
    "make": "FRONTIER",
    "model": "SS3067B",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BRUMFIELDPAUL30",
@@ -465,7 +465,7 @@
    "make": "KR",
    "model": "KW5.52T",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BRUMFIELDPAUL30",
@@ -477,7 +477,7 @@
    "make": "KR",
    "model": "ECR-280",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BUSCHKATHERIN55",
@@ -489,7 +489,7 @@
    "make": "FRONTIER",
    "model": "RC2048",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BUTTREYJONATH13",
@@ -501,7 +501,7 @@
    "make": "JOHN DEERE",
    "model": "MX6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "BUTTSMICHAELN10",
@@ -513,7 +513,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -525,7 +525,7 @@
    "make": "FRONTIER",
    "model": "LP1048L",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -537,7 +537,7 @@
    "make": "FRONTIER",
    "model": "AV20F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -549,7 +549,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -561,7 +561,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -573,7 +573,7 @@
    "make": "FRONTIER",
    "model": "RT3049",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CALDWELLFREDE35",
@@ -585,7 +585,7 @@
    "make": "FRONTIER",
    "model": "RC2048",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CAYPLESSMICHA36",
@@ -597,7 +597,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CAYPLESSMICHA36",
@@ -609,7 +609,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CAYPLESSMICHA36",
@@ -621,7 +621,7 @@
    "make": "FRONTIER",
    "model": "RC2084",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CAYPLESSMICHA36",
@@ -633,7 +633,7 @@
    "make": "FRONTIER",
    "model": "DH1396",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CHEATHAMRONAL15",
@@ -645,7 +645,7 @@
    "make": "JOHN DEERE",
    "model": "S240",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CHESTNUTSPLIT17",
@@ -681,7 +681,7 @@
    "make": "JOHN DEERE",
    "model": "MX6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CLARKC14878",
@@ -693,7 +693,7 @@
    "make": "FRONTIER",
    "model": "BB4284H",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CLAYTONSONIE/82",
@@ -705,7 +705,7 @@
    "make": "LMC",
    "model": "IPS-340",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLEGEOFVETE52",
@@ -717,7 +717,7 @@
    "make": "FRONTIER",
    "model": "AB13G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLEGEOFVETE52",
@@ -729,7 +729,7 @@
    "make": "FRONTIER",
    "model": "AP12G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLEGEOFVETE52",
@@ -741,7 +741,7 @@
    "make": "JOHN DEERE",
    "model": "6105E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLEGEOFVETE52",
@@ -753,7 +753,7 @@
    "make": "JOHN DEERE",
    "model": "540M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLIERROBERT53",
@@ -765,7 +765,7 @@
    "make": "JOHN DEERE",
    "model": "4044M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLIERROBERT53",
@@ -777,7 +777,7 @@
    "make": "FRONTIER",
    "model": "LR2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLIERROBERT53",
@@ -789,7 +789,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLIERROBERT53",
@@ -801,7 +801,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COLLIERROBERT53",
@@ -813,7 +813,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -825,7 +825,7 @@
    "make": "MISC",
    "model": "RC-61",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -837,7 +837,7 @@
    "make": "JOHN DEERE",
    "model": "D160 NSL",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -849,7 +849,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -861,7 +861,7 @@
    "make": "MISC",
    "model": "AMBUSH-IS",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -873,7 +873,7 @@
    "make": "LMC",
    "model": "L2004",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CONNALLY,JRST29",
@@ -885,7 +885,7 @@
    "make": "RHINO",
    "model": 3150,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COOKEDWIN318398",
@@ -897,7 +897,7 @@
    "make": "JOHN DEERE",
    "model": "E110",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COOKTHOMASJAR60",
@@ -909,7 +909,7 @@
    "make": "FRONTIER",
    "model": "GM1060E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COOKTHOMASJAR60",
@@ -921,7 +921,7 @@
    "make": "JOHN DEERE",
    "model": "3035D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COOPERLEE368057",
@@ -933,7 +933,7 @@
    "make": "JOHN DEERE",
    "model": "3032E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COOPERLEE368057",
@@ -945,7 +945,7 @@
    "make": "FRONTIER",
    "model": "GM1060E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "COWARTDONALD307",
@@ -957,7 +957,7 @@
    "make": "LMC",
    "model": "9DH-2422H",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "CULPEPPERTRAC08",
@@ -969,7 +969,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DANIELDENNIS02",
@@ -981,7 +981,7 @@
    "make": "JOHN DEERE",
    "model": "460M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DANIELTIMOTHY04",
@@ -993,7 +993,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DANSBYC13265",
@@ -1005,7 +1005,7 @@
    "make": "JOHN DEERE",
    "model": "XUV590M S4",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DCJC15268",
@@ -1017,7 +1017,7 @@
    "make": "FRONTIER",
    "model": "LW1166",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DCJC15268",
@@ -1053,7 +1053,7 @@
    "make": "JOHN DEERE",
    "model": "S240",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DJC13035",
@@ -1065,7 +1065,7 @@
    "make": "KUHN",
    "model": "GF7902T GII",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DOWDELLJAMES78",
@@ -1077,7 +1077,7 @@
    "make": "JOHN DEERE",
    "model": "XUV835E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DUERKDAVIDMAR69",
@@ -1089,7 +1089,7 @@
    "make": "FRONTIER",
    "model": "RC2048",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DUERKDAVIDMAR69",
@@ -1101,7 +1101,7 @@
    "make": "FRONTIER",
    "model": "PHA006",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DUERKDAVIDMAR69",
@@ -1113,7 +1113,7 @@
    "make": "FRONTIER",
    "model": "PHD100",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "DUERKDAVIDMAR69",
@@ -1125,7 +1125,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "EVANSTIFFANYW12",
@@ -1137,7 +1137,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "EVSMITHRESEAR27",
@@ -1149,7 +1149,7 @@
    "make": "JOHN DEERE",
    "model": "S240",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "EVSMITHRESEAR27",
@@ -1161,7 +1161,7 @@
    "make": "JOHN DEERE",
    "model": "MX7",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "EVSMITHRESEAR27",
@@ -1173,7 +1173,7 @@
    "make": "JOHN DEERE",
    "model": "MX7",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "EVSMITHRESEAR27",
@@ -1185,7 +1185,7 @@
    "make": "JOHN DEERE",
    "model": "XUV835M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FINCHERGEORGE44",
@@ -1197,7 +1197,7 @@
    "make": "LMC",
    "model": "RXT-088",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FINCHERGEORGE44",
@@ -1209,7 +1209,7 @@
    "make": "JOHN DEERE",
    "model": 469,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FINLAYSONSTEV88",
@@ -1221,7 +1221,7 @@
    "make": "JOHN DEERE",
    "model": "5100E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FINLAYSONSTEV88",
@@ -1233,7 +1233,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FLOYDC14540",
@@ -1245,7 +1245,7 @@
    "make": "FRONTIER",
    "model": "AP12F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FULLINGTONTOD43",
@@ -1257,7 +1257,7 @@
    "make": "JOHN DEERE",
    "model": "835M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FUQUAJ3608938",
@@ -1269,7 +1269,7 @@
    "make": "VERM",
    "model": "604M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "FURMANLINDAS314",
@@ -1281,7 +1281,7 @@
    "make": "JOHN DEERE",
    "model": "X570",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GEIGERKEITH3688",
@@ -1293,7 +1293,7 @@
    "make": "JOHN DEERE",
    "model": "E140",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GILLENWATERSC93",
@@ -1305,7 +1305,7 @@
    "make": "FRONTIER",
    "model": "SS1035B",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GIORDANOJORDA87",
@@ -1317,7 +1317,7 @@
    "make": "LP",
    "model": "6FTRCT",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GLEATONCLINTO53",
@@ -1329,7 +1329,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GMPDEVELOPMEN15",
@@ -1341,7 +1341,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GMPDEVELOPMEN15",
@@ -1353,7 +1353,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GMPDEVELOPMEN15",
@@ -1365,7 +1365,7 @@
    "make": "JOHN DEERE",
    "model": "E12",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GOODWINJERRY13",
@@ -1377,7 +1377,7 @@
    "make": "MISC",
    "model": "7X22",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GREGORYPAULA379",
@@ -1389,7 +1389,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1401,7 +1401,7 @@
    "make": "MISC",
    "model": "7X16",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1413,7 +1413,7 @@
    "make": "FRONTIER",
    "model": "DH1176",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1425,7 +1425,7 @@
    "make": "JOHN DEERE",
    "model": "XUV825M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1437,7 +1437,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1449,7 +1449,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1461,7 +1461,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "GROGANKENTORC08",
@@ -1473,7 +1473,7 @@
    "make": "FRONTIER",
    "model": "GM1072E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HALLC13357",
@@ -1485,7 +1485,7 @@
    "make": "JOHN DEERE",
    "model": "5203S",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HALLC13357",
@@ -1497,7 +1497,7 @@
    "make": "JOHN DEERE",
    "model": "Z920M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HALLJ36863-3801",
@@ -1509,7 +1509,7 @@
    "make": "JOHN DEERE",
    "model": "X584",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HALLJ36863-3801",
@@ -1521,7 +1521,7 @@
    "make": "JOHN DEERE",
    "model": "48 IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HANNAHANJIM3643",
@@ -1533,7 +1533,7 @@
    "make": "LMC",
    "model": "7DH-2022H",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HANSONWILLIAM69",
@@ -1545,7 +1545,7 @@
    "make": "JOHN DEERE",
    "model": "450M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARDEEJAMESWI04",
@@ -1557,7 +1557,7 @@
    "make": "FRONTIER",
    "model": "SS3067B",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARKLESSJOSEP99",
@@ -1569,7 +1569,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARKLESSJOSEP99",
@@ -1581,7 +1581,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARKLESSJOSEP99",
@@ -1593,7 +1593,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARRISBRANDON84",
@@ -1605,7 +1605,7 @@
    "make": "FRONTIER",
    "model": "AP12G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARRISBRANDON84",
@@ -1617,7 +1617,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARRISBRANDON84",
@@ -1629,7 +1629,7 @@
    "make": "LMC",
    "model": "RT-6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HARRISBRANDON84",
@@ -1641,7 +1641,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEATONC13097",
@@ -1653,7 +1653,7 @@
    "make": "LMC",
    "model": "9DH-2422H",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1665,7 +1665,7 @@
    "make": "FRONTIER",
    "model": "AB13G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1677,7 +1677,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1689,7 +1689,7 @@
    "make": "JOHN DEERE",
    "model": "5075E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1701,7 +1701,7 @@
    "make": "LMC",
    "model": "G60-GA",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1713,7 +1713,7 @@
    "make": "JOHN DEERE",
    "model": "MX6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1725,7 +1725,7 @@
    "make": "FRONTIER",
    "model": "PHA109",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HEIGLDAVIDWIL04",
@@ -1737,7 +1737,7 @@
    "make": "FRONTIER",
    "model": "PHD300",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HENDERSOC14402",
@@ -1749,7 +1749,7 @@
    "make": "JOHN DEERE",
    "model": "XUV560E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HILLTERRYRUDO29",
@@ -1761,7 +1761,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HILLTERRYRUDO29",
@@ -1773,7 +1773,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HILLTERRYRUDO29",
@@ -1785,7 +1785,7 @@
    "make": "FRONTIER",
    "model": "AV20F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HILLTERRYRUDO29",
@@ -1797,7 +1797,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HILLTERRYRUDO29",
@@ -1809,7 +1809,7 @@
    "make": "FRONTIER",
    "model": "RC2048",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HODGESTEVE68",
@@ -1821,7 +1821,7 @@
    "make": "FRONTIER",
    "model": "RB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HOLLANDHOMES335",
@@ -1833,7 +1833,7 @@
    "make": "FRONTIER",
    "model": "CP1572",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HOMESTEAC14189",
@@ -1845,7 +1845,7 @@
    "make": "FRONTIER",
    "model": "AP12D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "HORNSBYJASONA03",
@@ -1857,7 +1857,7 @@
    "make": "JOHN DEERE",
    "model": "XUV590M S4",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "INGRAMQUANDAR57",
@@ -1869,7 +1869,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "JANISCHRIS36815",
@@ -1881,7 +1881,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "JANISCHRIS36815",
@@ -1893,7 +1893,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "JANISCHRIS36815",
@@ -1905,7 +1905,7 @@
    "make": "MISC",
    "model": "7X25",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "JANISCHRIS36815",
@@ -1929,7 +1929,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "KEITHSTEVEN82",
@@ -1941,7 +1941,7 @@
    "make": "MISC",
    "model": "7X16",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "KIRKCODY3680491",
@@ -1953,7 +1953,7 @@
    "make": "LMC",
    "model": "RT-6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "KIRKCODY3680491",
@@ -1965,7 +1965,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "KIRKDREW3022273",
@@ -1977,7 +1977,7 @@
    "make": "LMC",
    "model": "HAY DOLLY",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "KOONJONATHAN319",
@@ -1989,7 +1989,7 @@
    "make": "TUFLI",
    "model": "BCP1816",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LANC15062",
@@ -2001,7 +2001,7 @@
    "make": "JOHN DEERE",
    "model": "TX 4X2",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LANGLEYC13963",
@@ -2013,7 +2013,7 @@
    "make": "JOHN DEERE",
    "model": "H310",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LANGLEYC13963",
@@ -2025,7 +2025,7 @@
    "make": "LMC",
    "model": "EGHBS-1",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LANGLEYC13963",
@@ -2037,7 +2037,7 @@
    "make": "LMC",
    "model": "EGHBS-1",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LAZGFARMS318029",
@@ -2061,7 +2061,7 @@
    "make": "VERM",
    "model": "604-K",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LAZGFARMS318029",
@@ -2073,7 +2073,7 @@
    "make": "JOHN DEERE",
    "model": "5055D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LEESCOTC13750",
@@ -2085,7 +2085,7 @@
    "make": "JOHN DEERE",
    "model": "TX 4X2",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LETTJIMMYMORR40",
@@ -2097,7 +2097,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LEWISELIJAH3626",
@@ -2109,7 +2109,7 @@
    "make": "JOHN DEERE",
    "model": "S110",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LONGERIC49",
@@ -2121,7 +2121,7 @@
    "make": "FRONTIER",
    "model": "LR5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LONGERIC49",
@@ -2133,7 +2133,7 @@
    "make": "FRONTIER",
    "model": "AV20F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LONGERIC49",
@@ -2145,7 +2145,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LONGERIC49",
@@ -2157,7 +2157,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LOTTMARKGRIFF69",
@@ -2169,7 +2169,7 @@
    "make": "FRONTIER",
    "model": "PHA009",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LOTTMARKGRIFF69",
@@ -2181,7 +2181,7 @@
    "make": "FRONTIER",
    "model": "PHD200",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LUCASD3683204",
@@ -2193,7 +2193,7 @@
    "make": "JOHN DEERE",
    "model": "S240",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LUNCEFORC14032",
@@ -2205,7 +2205,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LUNCEFORC14032",
@@ -2217,7 +2217,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LUNCEFORC14032",
@@ -2229,7 +2229,7 @@
    "make": "JOHN DEERE",
    "model": "60D IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "LUNCEFORC14032",
@@ -2241,7 +2241,7 @@
    "make": "FRONTIER",
    "model": "AV20F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MANC15385",
@@ -2253,7 +2253,7 @@
    "make": "JOHN DEERE",
    "model": "3025D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MANC15385",
@@ -2265,7 +2265,7 @@
    "make": "FRONTIER",
    "model": "DH1176",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MANC15385",
@@ -2277,7 +2277,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MARRSGARY360854",
@@ -2289,7 +2289,7 @@
    "make": "NH",
    "model": 644,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MARSHALLWILLI59",
@@ -2301,7 +2301,7 @@
    "make": "FRONTIER",
    "model": "AP12F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MARSHALLWILLI59",
@@ -2313,7 +2313,7 @@
    "make": "FRONTIER",
    "model": "AB13E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MARTINGERALD313",
@@ -2325,7 +2325,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MARTINMITCHEL38",
@@ -2337,7 +2337,7 @@
    "make": "LMC",
    "model": "CP-72",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MASSEYHUNTERP48",
@@ -2349,7 +2349,7 @@
    "make": "JOHN DEERE",
    "model": "3032E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MASSEYHUNTERP48",
@@ -2361,7 +2361,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MASSEYHUNTERP48",
@@ -2373,7 +2373,7 @@
    "make": "FRONTIER",
    "model": "LP1172",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MASSEYHUNTERP48",
@@ -2385,7 +2385,7 @@
    "make": "JOHN DEERE",
    "model": "Z335M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCLELLANJERE59",
@@ -2397,7 +2397,7 @@
    "make": "JOHN DEERE",
    "model": "4044M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCLELLANJERE59",
@@ -2409,7 +2409,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCLELLANJERE59",
@@ -2421,7 +2421,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCLEMOREJULI31",
@@ -2433,7 +2433,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCORMICKOMA86",
@@ -2445,7 +2445,7 @@
    "make": "JOHN DEERE",
    "model": "Z970R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCCULLOUGHARC26",
@@ -2457,7 +2457,7 @@
    "make": "JOHN DEERE",
    "model": "X380",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCDONALDCASEY25",
@@ -2481,7 +2481,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCDONALDCASEY25",
@@ -2493,7 +2493,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCDONALDCASEY25",
@@ -2505,7 +2505,7 @@
    "make": "MISC",
    "model": "7X25",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCDONALDCASEY25",
@@ -2517,7 +2517,7 @@
    "make": "JOHN DEERE",
    "model": "5045E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCDONALDCASEY25",
@@ -2529,7 +2529,7 @@
    "make": "JOHN DEERE",
    "model": "MX6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MCINTYREBILLY49",
@@ -2553,7 +2553,7 @@
    "make": "JOHN DEERE",
    "model": "E130",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MENEFEEC13114",
@@ -2565,7 +2565,7 @@
    "make": "KMC",
    "model": 4760,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MENEFEEC13114",
@@ -2577,7 +2577,7 @@
    "make": "KUHN",
    "model": "GMD310HD",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MILESWALTER3078",
@@ -2589,7 +2589,7 @@
    "make": "JOHN DEERE",
    "model": "X580",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MILLERJOSEPH319",
@@ -2601,7 +2601,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MILLERTHOMASF22",
@@ -2613,7 +2613,7 @@
    "make": "JOHN DEERE",
    "model": "E120",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MITCHAMFARM3608",
@@ -2625,7 +2625,7 @@
    "make": "MISC",
    "model": "FW520E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MITCHELLJOSEP52",
@@ -2637,7 +2637,7 @@
    "make": "JOHN DEERE",
    "model": "3025D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MITCHELLJOSEP52",
@@ -2649,7 +2649,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOLNARJARROD27",
@@ -2661,7 +2661,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOOREBOBBYLAM95",
@@ -2673,7 +2673,7 @@
    "make": "JOHN DEERE",
    "model": "5045E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOOREBOBBYLAM95",
@@ -2685,7 +2685,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOOREBOBBYLAM95",
@@ -2697,7 +2697,7 @@
    "make": "FRONTIER",
    "model": "DH1296",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOOREBOBBYLAM95",
@@ -2709,7 +2709,7 @@
    "make": "JOHN DEERE",
    "model": "E110",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MOOREMATTHEWA49",
@@ -2721,7 +2721,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MURPHREEDANIE64",
@@ -2733,7 +2733,7 @@
    "make": "JOHN DEERE",
    "model": "Z345M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "MillerRobert335",
@@ -2745,7 +2745,7 @@
    "make": "KR",
    "model": "ECR-280",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "NETWORKENGINE69",
@@ -2757,7 +2757,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "NEWMANC13482",
@@ -2769,7 +2769,7 @@
    "make": "JOHN DEERE",
    "model": "E12",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "NITC15185",
@@ -2781,7 +2781,7 @@
    "make": "JOHN DEERE",
    "model": "X380",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARKERANDREW390",
@@ -2793,7 +2793,7 @@
    "make": "FRONTIER",
    "model": "AP10F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARKERCURTIS341",
@@ -2805,7 +2805,7 @@
    "make": "JOHN DEERE",
    "model": "Z355E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARKERTIV1222",
@@ -2817,7 +2817,7 @@
    "make": "UNVER",
    "model": "STP81201GA",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARTRIDGEEUEL05",
@@ -2829,7 +2829,7 @@
    "make": "FRONTIER",
    "model": "LR2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARTRIDGEEUEL05",
@@ -2841,7 +2841,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PARTRIDGEEUEL05",
@@ -2853,7 +2853,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PAYNEDAVIDLEE16",
@@ -2865,7 +2865,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PINNYWILLIAMG65",
@@ -2877,7 +2877,7 @@
    "make": "JOHN DEERE",
    "model": "E130",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "POPEC9833",
@@ -2889,7 +2889,7 @@
    "make": "JOHN DEERE",
    "model": 569,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRATERSTEPHEN76",
@@ -2901,7 +2901,7 @@
    "make": "JOHN DEERE",
    "model": "540M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRATERSTEPHEN76",
@@ -2913,7 +2913,7 @@
    "make": "JOHN DEERE",
    "model": "5090E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRATERSTEPHEN76",
@@ -2925,7 +2925,7 @@
    "make": "JOHN DEERE",
    "model": "MX7",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRATERSTEPHEN76",
@@ -2937,7 +2937,7 @@
    "make": "FRONTIER",
    "model": "AP12G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRECISIONGLAS62",
@@ -2949,7 +2949,7 @@
    "make": "LMC",
    "model": "RT-6",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PREUSRICHARD341",
@@ -2961,7 +2961,7 @@
    "make": "JOHN DEERE",
    "model": "W52R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRITCHARDROBE10",
@@ -2973,7 +2973,7 @@
    "make": "JOHN DEERE",
    "model": "3043D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "PRUITTSAMUELP96",
@@ -2985,7 +2985,7 @@
    "make": "JOHN DEERE",
    "model": 5303,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RAHNKEITH368371",
@@ -2997,7 +2997,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RANC11435",
@@ -3009,7 +3009,7 @@
    "make": "JOHN DEERE",
    "model": "5100M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RANC11435",
@@ -3021,7 +3021,7 @@
    "make": "JOHN DEERE",
    "model": "5100M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RAYWATERAUTHO27",
@@ -3033,7 +3033,7 @@
    "make": "JOHN DEERE",
    "model": "BYT10963",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RAYWATERAUTHO27",
@@ -3045,7 +3045,7 @@
    "make": "JOHN DEERE",
    "model": "35G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RAYWATERAUTHO27",
@@ -3057,7 +3057,7 @@
    "make": "JOHN DEERE",
    "model": "BYT11548",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RECINOSWALFRE89",
@@ -3069,7 +3069,7 @@
    "make": "MF",
    "model": 1523,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "REEVESCHARLES11",
@@ -3081,7 +3081,7 @@
    "make": "JOHN DEERE",
    "model": "Z335M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "REGISTERPAUL58",
@@ -3093,7 +3093,7 @@
    "make": "JOHN DEERE",
    "model": "Z535M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RIDDLEJERRELL43",
@@ -3105,7 +3105,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RIDDLEJERRELL43",
@@ -3117,7 +3117,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSADAM3665",
@@ -3129,7 +3129,7 @@
    "make": "LMC",
    "model": "IJS-340",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSLARRY340",
@@ -3141,7 +3141,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSLARRY340",
@@ -3153,7 +3153,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSONEDWA69",
@@ -3165,7 +3165,7 @@
    "make": "JOHN DEERE",
    "model": "590E S4",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSRICHAR30",
@@ -3177,7 +3177,7 @@
    "make": "FRONTIER",
    "model": "BB5060L",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBERTSRICHAR30",
@@ -3189,7 +3189,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBINSONC13489",
@@ -3201,7 +3201,7 @@
    "make": "JOHN DEERE",
    "model": 6950,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "ROBINSONC13489",
@@ -3213,7 +3213,7 @@
    "make": "JOHN DEERE",
    "model": "640C",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "RODMANTERRY/L26",
@@ -3225,7 +3225,7 @@
    "make": "JOHN DEERE",
    "model": "E130",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANFORDWILLIA06",
@@ -3237,7 +3237,7 @@
    "make": "JOHN DEERE",
    "model": "5045E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANFORDWILLIA06",
@@ -3249,7 +3249,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3261,7 +3261,7 @@
    "make": "JOHN DEERE",
    "model": "XUV590M S4",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3273,7 +3273,7 @@
    "make": "FRONTIER",
    "model": "BB5060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3285,7 +3285,7 @@
    "make": "JOHN DEERE",
    "model": "D160",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3297,7 +3297,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3309,7 +3309,7 @@
    "make": "JOHN DEERE",
    "model": "3025E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SANTIAGOBRAND01",
@@ -3321,7 +3321,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SAUGAHATC12809",
@@ -3333,7 +3333,7 @@
    "make": "JOHN DEERE",
    "model": "5100M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SAUGAHATC12809",
@@ -3345,7 +3345,7 @@
    "make": "JOHN DEERE",
    "model": "540M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SAUGAHATC12809",
@@ -3357,7 +3357,7 @@
    "make": "RHINO",
    "model": 3150,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SAUGAHATC12809",
@@ -3369,7 +3369,7 @@
    "make": "FRONTIER",
    "model": "AP12G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SCHULERPROPER45",
@@ -3381,7 +3381,7 @@
    "make": "FRONTIER",
    "model": "AB12D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SCHULERPROPER45",
@@ -3417,7 +3417,7 @@
    "make": "FRONTIER",
    "model": "HS2002",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SCOTTBRADNEY333",
@@ -3429,7 +3429,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SCOTTBRADNEY333",
@@ -3441,7 +3441,7 @@
    "make": "JOHN DEERE",
    "model": "4044M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SELLERSNATHAN29",
@@ -3453,7 +3453,7 @@
    "make": "JOHN DEERE",
    "model": "Z920M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SELLERSNATHAN29",
@@ -3477,7 +3477,7 @@
    "make": "FRONTIER",
    "model": "RT3062",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SELLERSNATHAN29",
@@ -3489,7 +3489,7 @@
    "make": "FRONTIER",
    "model": "RC2072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3501,7 +3501,7 @@
    "make": "JOHN DEERE",
    "model": "5115R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3513,7 +3513,7 @@
    "make": "JOHN DEERE",
    "model": "640R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3525,7 +3525,7 @@
    "make": "FRONTIER",
    "model": "AB13G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3537,7 +3537,7 @@
    "make": "FRONTIER",
    "model": "AB13G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3549,7 +3549,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3561,7 +3561,7 @@
    "make": "JOHN DEERE",
    "model": "540R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3597,7 +3597,7 @@
    "make": "JOHN DEERE",
    "model": "XUV855M S4",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3609,7 +3609,7 @@
    "make": "JOHN DEERE",
    "model": "6145R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3621,7 +3621,7 @@
    "make": "JOHN DEERE",
    "model": "A420R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3633,7 +3633,7 @@
    "make": "JOHN DEERE",
    "model": "A420R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3645,7 +3645,7 @@
    "make": "FRONTIER",
    "model": "AB13G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHADYSIDEFARM30",
@@ -3657,7 +3657,7 @@
    "make": "KUHN",
    "model": "MDS 8.2",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHARPLAUREN3675",
@@ -3669,7 +3669,7 @@
    "make": "JOHN DEERE",
    "model": "Z355E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SHAWJAKE97",
@@ -3681,7 +3681,7 @@
    "make": "JOHN DEERE",
    "model": "MX5",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SIKESJOSHUA3637",
@@ -3693,7 +3693,7 @@
    "make": "JOHN DEERE",
    "model": "H240",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SIKESJOSHUA3637",
@@ -3705,7 +3705,7 @@
    "make": "JOHN DEERE",
    "model": "5065E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SIKESJOSHUA3637",
@@ -3741,7 +3741,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SLEDGEWAYNE9763",
@@ -3753,7 +3753,7 @@
    "make": "JOHN DEERE",
    "model": "5045E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHBETTIECU02",
@@ -3765,7 +3765,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHBRANDY60",
@@ -3777,7 +3777,7 @@
    "make": "JOHN DEERE",
    "model": "Z345R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHC15568",
@@ -3789,7 +3789,7 @@
    "make": "JOHN DEERE",
    "model": "HPX615E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHROBERTLA80",
@@ -3801,7 +3801,7 @@
    "make": "JOHN DEERE",
    "model": "370B",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHROBERTLA80",
@@ -3813,7 +3813,7 @@
    "make": "JOHN DEERE",
    "model": "3038E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SMITHTERRIELE53",
@@ -3825,7 +3825,7 @@
    "make": "JOHN DEERE",
    "model": 6410,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SOJOONY3627425",
@@ -3837,7 +3837,7 @@
    "make": "JOHN DEERE",
    "model": "324G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SOUTHERLANDJA10",
@@ -3849,7 +3849,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SOUTHERLANDJA10",
@@ -3861,7 +3861,7 @@
    "make": "JOHN DEERE",
    "model": "60D IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SOUTHERLANDJA10",
@@ -3873,7 +3873,7 @@
    "make": "MISC",
    "model": "7X16",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "STARLINGMARK378",
@@ -3885,7 +3885,7 @@
    "make": "JOHN DEERE",
    "model": "E130",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "STEELEJAMES3636",
@@ -3909,7 +3909,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "STROUDJOEORKA10",
@@ -3921,7 +3921,7 @@
    "make": "FRONTIER",
    "model": "RC2060",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "SWEATMANBILL331",
@@ -3933,7 +3933,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TALLEYCHARLES85",
@@ -3945,7 +3945,7 @@
    "make": "FRONTIER",
    "model": "AP13D",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TATUMC12980",
@@ -3957,7 +3957,7 @@
    "make": "LMC",
    "model": 5108,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TERRYRUSSELL308",
@@ -3969,7 +3969,7 @@
    "make": "JOHN DEERE",
    "model": "X350",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "THECITYCHURCH97",
@@ -3993,7 +3993,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "THOMASELEVENL25",
@@ -4005,7 +4005,7 @@
    "make": "JOHN DEERE",
    "model": "5045E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "THOMPSONGREGO14",
@@ -4017,7 +4017,7 @@
    "make": "JOHN DEERE",
    "model": "120R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TIELKINGSGLET72",
@@ -4029,7 +4029,7 @@
    "make": "JOHN DEERE",
    "model": "60D IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TIELKINGSGLET72",
@@ -4041,7 +4041,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TILLGARYEL32508",
@@ -4053,7 +4053,7 @@
    "make": "KUBOT",
    "model": "BX2660",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TROTTERCRAIG361",
@@ -4065,7 +4065,7 @@
    "make": "FRONTIER",
    "model": "GM1072E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "TROTTERCRAIG361",
@@ -4077,7 +4077,7 @@
    "make": "JOHN DEERE",
    "model": "4044M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "USDA,ARS3683273",
@@ -4089,7 +4089,7 @@
    "make": "JOHN DEERE",
    "model": "8R 250",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "USDAC12828",
@@ -4101,7 +4101,7 @@
    "make": "JOHN DEERE",
    "model": "TX 4X2",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "VAUGHNMICKEYJ42",
@@ -4113,7 +4113,7 @@
    "make": "FRONTIER",
    "model": "RT3049",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "VICKERSWILLIA82",
@@ -4125,7 +4125,7 @@
    "make": "JOHN DEERE",
    "model": "Z530R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "VINESMAJOR36836",
@@ -4137,7 +4137,7 @@
    "make": "MISC",
    "model": "7X20",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WAGNERNANCY3611",
@@ -4149,7 +4149,7 @@
    "make": "LMC",
    "model": "RT-7",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WALKERCHARLES29",
@@ -4161,7 +4161,7 @@
    "make": "JOHN DEERE",
    "model": "Z915E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WELLSC18",
@@ -4173,7 +4173,7 @@
    "make": "JOHN DEERE",
    "model": "348T",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSC10216",
@@ -4185,7 +4185,7 @@
    "make": "JOHN DEERE",
    "model": "Z930M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSC15613",
@@ -4197,7 +4197,7 @@
    "make": "JOHN DEERE",
    "model": "Z930M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSJEFF08",
@@ -4209,7 +4209,7 @@
    "make": "JOHN DEERE",
    "model": 435,
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSJEFF08",
@@ -4221,7 +4221,7 @@
    "make": "FELLA",
    "model": "SM248",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSJEFF08",
@@ -4233,7 +4233,7 @@
    "make": "MISC",
    "model": "RCS 8",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIAMSWILLI67",
@@ -4245,7 +4245,7 @@
    "make": "JOHN DEERE",
    "model": "1025R",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WILLIFORDWAYN74",
@@ -4257,7 +4257,7 @@
    "make": "LMC",
    "model": "6FTDH",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WOODBRYANPATR79",
@@ -4269,7 +4269,7 @@
    "make": "FRONTIER",
    "model": "AP12G",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WOODBRYANPATR79",
@@ -4281,7 +4281,7 @@
    "make": "JOHN DEERE",
    "model": "520M",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WOODBRYANPATR79",
@@ -4293,7 +4293,7 @@
    "make": "JOHN DEERE",
    "model": "5075E",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WOODBRYANPATR79",
@@ -4305,7 +4305,7 @@
    "make": "JOHN DEERE",
    "model": "MX7",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WOODBRYANPATR79",
@@ -4317,7 +4317,7 @@
    "make": "FRONTIER",
    "model": "BB5084",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WRIGGLESWORTH29",
@@ -4329,7 +4329,7 @@
    "make": "FRONTIER",
    "model": "BB5072",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "WYNNBRIAN37",
@@ -4341,7 +4341,7 @@
    "make": "FRONTIER",
    "model": "AP12F",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "YEAGER,E10",
@@ -4353,7 +4353,7 @@
    "make": "JOHN DEERE",
    "model": "X590",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "YEAGER,E10",
@@ -4365,7 +4365,7 @@
    "make": "JOHN DEERE",
    "model": "48 IN.",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  },
  {
    "customer": "sanfordh3508938",
@@ -4377,6 +4377,6 @@
    "make": "JOHN DEERE",
    "model": "X380",
    "tradeSold": false,
-   "dateTradeSold": null
+   "dateTradeSold": ""
  }
 ]
