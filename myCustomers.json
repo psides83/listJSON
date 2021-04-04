@@ -1,45 +1,57 @@
 [
  {
    "id": "BECKSC13001",
+   "firstName": "",
+   "lastName": "",
    "business": "Beck's Turf Inc.",
    "address": "2858 Co Rd 53",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
+   "phone": "",
    "email": "jimmy@becksturf.com"
  },
  {
    "id": "SIKESJOSHUA3637",
    "firstName": "Joshua",
    "lastName": "Sikes",
+   "business": "",
    "address": "14227 Hobbie Rd",
    "city": "Ramer",
    "state": "Al",
-   "zip": "36069"
+   "zip": "36069",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "MCDONALDCASEY25",
    "firstName": "Casey",
    "lastName": "Mcdonald",
+   "business": "",
    "address": "1606 20th Ave",
    "city": "Phenix City",
    "state": "Al",
    "zip": "36867",
+   "phone": "",
    "email": "mcdonald.casey454@icloud.com"
  },
  {
    "id": "MCCLEMOREJULI31",
    "firstName": "Julia",
    "lastName": "Mcclemore",
+   "business": "",
    "address": "1701 Cherry Dr",
    "city": "Lanett",
    "state": "Al",
-   "zip": "36863"
+   "zip": "36863",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "CONNALLY,JRST29",
    "firstName": "Stanley",
    "lastName": "Connally",
+   "business": "",
    "address": "601 Country Club Rd",
    "city": "Union Springs",
    "state": "Al",
@@ -51,6 +63,7 @@
    "id": "HEIGLDAVIDWIL04",
    "firstName": "David",
    "lastName": "Heigl",
+   "business": "",
    "address": "9088 Us Highway 431",
    "city": "Lafayette",
    "state": "Al",
@@ -62,14 +75,17 @@
    "id": "MASSEYHUNTERP48",
    "firstName": "Phelps",
    "lastName": "Massey",
+   "business": "",
    "address": "3960 Cotton Valley Ln",
    "city": "Auburn",
    "state": "Al",
-   "zip": "36832"
+   "zip": "36832",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "SHADYSIDEFARM30",
-   "firstName": "Loring",
+   "firstName": "James",
    "lastName": "White",
    "business": "Shady Side Farm Llc",
    "address": "9270 County Road 222",
@@ -107,6 +123,7 @@
    "id": "HALLC13357",
    "firstName": "Ludie",
    "lastName": "Hall",
+   "business": "",
    "address": "1320 Pine Grove Rd",
    "city": "Tuskegee",
    "state": "Al",
@@ -118,20 +135,24 @@
    "id": "THOMPSONGREGO14",
    "firstName": "Gregory",
    "lastName": "Thompson",
+   "business": "",
    "address": "22706 Sen Claude Pepper Dr",
    "city": "Camp Hill",
    "state": "Al",
    "zip": "36850",
+   "phone": "",
    "email": "gthomp01@yahoo.com"
  },
  {
    "id": "PRATERSTEPHEN76",
    "firstName": "Stephen",
    "lastName": "Prater",
+   "business": "",
    "address": "8312 Chadburn Way",
    "city": "Montgomery",
    "state": "Al",
    "zip": "36116",
+   "phone": "",
    "email": "ericprater@bellsouth.net"
  },
  {
@@ -150,143 +171,175 @@
    "id": "GROGANKENTORC08",
    "firstName": "Kent",
    "lastName": "Grogan",
+   "business": "",
    "address": "5664 Pebble City Road",
    "city": "Sale City",
    "state": "Ga",
    "zip": "31784",
+   "phone": "",
    "email": "kentgrogan@aol.com"
  },
  {
    "id": "WILLIFORDWAYN74",
    "firstName": "Wayne",
    "lastName": "Williford",
+   "business": "",
    "address": "871 Shady Oak Ln",
    "city": "Montevallo",
    "state": "Al",
-   "zip": "35115"
+   "zip": "35115",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "WILLIAMSJEFF08",
    "firstName": "Jeffery",
    "lastName": "Williams",
+   "business": "",
    "address": "1341 County Road 224",
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
-   "phone": "13344447490"
+   "phone": "13344447490",
+   "email": ""
  },
  {
    "id": "ROBINSONANITA28",
    "firstName": "Anita",
    "lastName": "Robinson",
+   "business": "",
    "address": "25539 Palo Cedro Dr",
    "city": "Moreno Valley",
    "state": "Ca",
    "zip": "92551",
+   "phone": "",
    "email": "adrobinson4@verizon.net"
  },
  {
    "id": "DANIELTIMOTHY04",
    "firstName": "Logan",
    "lastName": "Daniel",
+   "business": "",
    "address": "825 County Road 626",
    "city": "Roanoke",
    "state": "Al",
    "zip": "36274",
-   "phone": "13346460914"
+   "phone": "13346460914",
+   "email": ""
  },
  {
    "id": "FUQUAJ3608938",
    "firstName": "Henry",
    "lastName": "Fuqua",
+   "business": "",
    "address": "4859 County Rd. 223",
    "city": "Union Springs",
    "state": "Al",
    "zip": "36089",
-   "phone": "13344252571"
+   "phone": "13344252571",
+   "email": ""
  },
  {
    "id": "BETHUNERAY05",
    "firstName": "Ray",
    "lastName": "Bethune",
+   "business": "",
    "address": "2913 Stanway Ave",
    "city": "Douglasville",
    "state": "Ga",
    "zip": "30135",
+   "phone": "",
    "email": "bethuneray25@gmail.com"
  },
  {
    "id": "HARKLESSJOSEP99",
    "firstName": "Joseph",
    "lastName": "Harkless",
+   "business": "",
    "address": "376 Songbird Cir",
    "city": "Tusekgee",
    "state": "Al",
    "zip": "36083",
+   "phone": "",
    "email": "jazygumbojo@outlook.com"
  },
  {
    "id": "FINLAYSONSTEV88",
    "firstName": "Steven",
    "lastName": "Finlayson",
+   "business": "",
    "address": "13581 County Rd 35",
    "city": "Banks",
    "state": "Al",
    "zip": "36005",
-   "phone": "13344306936"
+   "phone": "13344306936",
+   "email": ""
  },
  {
    "id": "RANC11435",
+   "firstName": "",
+   "lastName": "",
    "business": "Randolph County Commission",
    "address": "P.o. Box 286",
    "city": "Wedowee",
    "state": "Al",
    "zip": "36278",
-   "phone": "12563572311"
+   "phone": "12563572311",
+   "email": ""
  },
  {
    "id": "BROWNROBERT37",
    "firstName": "Robert",
    "lastName": "Brown",
+   "business": "",
    "address": "1004 Highway 51 S",
    "city": "Clayton",
    "state": "Al",
    "zip": "36016",
+   "phone": "",
    "email": "rmbrownieboy@yahoo.com"
  },
  {
    "id": "ALEXANDEC13252",
    "firstName": "Larry",
    "lastName": "Alexander",
+   "business": "",
    "address": "615 Nuckols Rd",
    "city": "Seale",
    "state": "Al",
    "zip": "36875",
-   "phone": "13348553100"
+   "phone": "13348553100",
+   "email": ""
  },
  {
    "id": "FULLINGTONTOD43",
    "firstName": "Todd",
    "lastName": "Fullington",
+   "business": "",
    "address": "721 South Dean Road",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "12519237252"
+   "phone": "12519237252",
+   "email": ""
  },
  {
    "id": "SMITHC15568",
    "firstName": "James",
    "lastName": "Smith",
+   "business": "",
    "address": "1337 E Samford Ave",
    "city": "Auburn",
    "state": "Al",
-   "zip": "36832"
+   "zip": "36832",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "MANC15385",
    "firstName": "Huey",
    "lastName": "Mann",
+   "business": "",
    "address": "2961 County Road 89 S",
    "city": "Camp Hill",
    "state": "Al",
@@ -298,16 +351,19 @@
    "id": "MOOREBOBBYLAM95",
    "firstName": "Bobby",
    "lastName": "Moore",
+   "business": "",
    "address": "3813 County Road 153",
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
+   "phone": "",
    "email": "mmoore12105@gmail.com"
  },
  {
    "id": "HARDEEJAMESWI04",
    "firstName": "James",
    "lastName": "Hardee",
+   "business": "",
    "address": "1515 Cr 63",
    "city": "Tuskegee",
    "state": "Al",
@@ -319,11 +375,13 @@
    "id": "FILC15355",
    "firstName": "James",
    "lastName": "Fillmer",
+   "business": "",
    "address": "80 Lee Road 100",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13347502679"
+   "phone": "13347502679",
+   "email": ""
  },
  {
    "id": "DEANBLACKSTOC18",
@@ -334,7 +392,8 @@
    "city": "Valley",
    "state": "Al",
    "zip": "36854",
-   "phone": "17065186636"
+   "phone": "17065186636",
+   "email": ""
  },
  {
    "id": "PRECISIONGLAS62",
@@ -344,31 +403,39 @@
    "address": "2112 Frederick Rd #A",
    "city": "Opelika",
    "state": "Al",
-   "zip": "36801"
+   "zip": "36801",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "KIRKCODY3680491",
    "firstName": "Cody",
    "lastName": "Kirk",
+   "business": "",
    "address": "510 Lee Road 483",
    "city": "Opelika",
    "state": "Al",
-   "zip": "36804"
+   "zip": "36804",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "HARRISBRANDON84",
    "firstName": "Brandon",
    "lastName": "Harris",
+   "business": "",
    "address": "19 Meadow Land Ct",
    "city": "Elmore",
    "state": "Al",
    "zip": "36025",
+   "phone": "",
    "email": "brandonharris680@gmail.com"
  },
  {
    "id": "TATUMC12980",
    "firstName": "Crawford",
    "lastName": "Tatum",
+   "business": "",
    "address": "614 Avenue A",
    "city": "Opelika",
    "state": "Al",
@@ -380,26 +447,31 @@
    "id": "ROBERTSONEDWA69",
    "firstName": "Edward",
    "lastName": "Robertson",
+   "business": "",
    "address": "21 Hidden Lake Dr",
    "city": "Hatchechubbee",
    "state": "Al",
    "zip": "36858",
-   "phone": "13347078362"
+   "phone": "13347078362",
+   "email": ""
  },
  {
    "id": "PARTRIDGEEUEL05",
    "firstName": "Euel",
    "lastName": "Partridge",
+   "business": "",
    "address": "393 Lee Road 38",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
+   "phone": "",
    "email": "euelp333@gmail.com"
  },
  {
    "id": "COOPERLEE368057",
    "firstName": "Lee",
    "lastName": "Cooper",
+   "business": "",
    "address": "300 Lee Road 147",
    "city": "Opelika",
    "state": "Al",
@@ -411,19 +483,25 @@
    "id": "SMITHROBERTLA80",
    "firstName": "Robert",
    "lastName": "Smith",
+   "business": "",
    "address": "1024 Fairmont Ln",
    "city": "Auburn",
    "state": "Al",
-   "zip": "36830"
+   "zip": "36830",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "CULPEPPERTRAC08",
    "firstName": "Tracy",
    "lastName": "Culpepper",
+   "business": "",
    "address": "74 Lee Road 844",
    "city": "Valley",
    "state": "Al",
-   "zip": "36854"
+   "zip": "36854",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "THECITYCHURCH97",
@@ -441,30 +519,37 @@
    "id": "GLEATONCLINTO53",
    "firstName": "Lanier",
    "lastName": "Gleaton",
+   "business": "",
    "address": "100 Lee Road",
    "city": "Valley",
    "state": "Al",
    "zip": "36854",
+   "phone": "",
    "email": "laniergleaton@aol.com"
  },
  {
    "id": "GREGORYPAULA379",
    "firstName": "Paul",
    "lastName": "Gregory",
+   "business": "",
    "address": "7411 County Road 48",
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
-   "phone": "12567498403"
+   "phone": "12567498403",
+   "email": ""
  },
  {
    "id": "MILLERJOSEPH319",
    "firstName": "Joseph",
    "lastName": "Miller",
+   "business": "",
    "address": "245 Murphy Road",
    "city": "Tallassee",
    "state": "Al",
-   "zip": "36078"
+   "zip": "36078",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "GIORDANOJORDA87",
@@ -474,12 +559,15 @@
    "address": "934 Ga Highway 219",
    "city": "Fortson",
    "state": "Ga",
-   "zip": "31808"
+   "zip": "31808",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "DUERKDAVIDMAR69",
    "firstName": "David",
    "lastName": "Duerk",
+   "business": "",
    "address": "2766 Sophia Way",
    "city": "Auburn",
    "state": "Al",
@@ -491,46 +579,55 @@
    "id": "WELLSC18",
    "firstName": "Charles",
    "lastName": "Wells",
+   "business": "",
    "address": "892 Highway 8 E",
    "city": "Vardaman",
    "state": "Ms",
    "zip": "38878",
-   "phone": "16626829700"
+   "phone": "16626829700",
+   "email": ""
  },
  {
    "id": "CALDWELLFREDE35",
    "firstName": "Frederick",
    "lastName": "Caldwell",
+   "business": "",
    "address": "7200 Warm Springs Rd",
    "city": "Midland",
    "state": "Ga",
    "zip": "31820",
-   "phone": "17066626828"
+   "phone": "17066626828",
+   "email": ""
  },
  {
    "id": "ROBERTSRICHAR30",
    "firstName": "Richard",
    "lastName": "Roberts",
+   "business": "",
    "address": "289 Lake Haven Dr",
    "city": "Deatsville",
    "state": "Al",
    "zip": "36022",
+   "phone": "",
    "email": "ricky.roberts@cbsbank.net"
  },
  {
    "id": "REGISTERPAUL58",
    "firstName": "Paul",
    "lastName": "Register",
+   "business": "",
    "address": "3899 Sandhill Rd.",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13343193625"
+   "phone": "13343193625",
+   "email": ""
  },
  {
    "id": "PARKERANDREW390",
    "firstName": "Andrew",
    "lastName": "Parker",
+   "business": "",
    "address": "948 County Road 346",
    "city": "Elba",
    "state": "Al",
@@ -559,41 +656,50 @@
    "city": "Opelika",
    "state": "Al",
    "zip": "36803",
-   "phone": "13347500582"
+   "phone": "13347500582",
+   "email": ""
  },
  {
    "id": "BRUMFIELDPAUL30",
    "firstName": "Paul",
    "lastName": "Brumfield",
+   "business": "",
    "address": "5333 Lee Road 388",
    "city": "Cusseta",
    "state": "Al",
    "zip": "36852",
-   "phone": "17065855713"
+   "phone": "17065855713",
+   "email": ""
  },
  {
    "id": "COOKEDWIN318398",
    "firstName": "Edwin",
    "lastName": "Cook",
+   "business": "",
    "address": "105 Beallwood Dr",
    "city": "West Point",
    "state": "Ga",
-   "zip": "31833"
+   "zip": "31833",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "STARLINGMARK378",
    "firstName": "Mark",
    "lastName": "Starling",
+   "business": "",
    "address": "1473 Plantation Creek Rd",
    "city": "Fortson",
    "state": "Ga",
    "zip": "31808",
+   "phone": "",
    "email": "starlingsnest@att.net"
  },
  {
    "id": "MEADOWSJOHN3633",
    "firstName": "John",
    "lastName": "Meadows",
+   "business": "",
    "address": "7477 Lee Rd 240",
    "city": "Phenix City",
    "state": "Al",
@@ -605,11 +711,13 @@
    "id": "PINNYWILLIAMG65",
    "firstName": "William",
    "lastName": "Pinney",
+   "business": "",
    "address": "160 Lee Road 706",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13347872304"
+   "phone": "13347872304",
+   "email": ""
  },
  {
    "id": "COLLEGEOFVETE52",
@@ -620,16 +728,20 @@
    "city": "Tuskegee Institute",
    "state": "Al",
    "zip": "36088",
-   "phone": "13347278470"
+   "phone": "13347278470",
+   "email": ""
  },
  {
    "id": "PAYNEDAVIDLEE16",
    "firstName": "David",
    "lastName": "Payne",
+   "business": "",
    "address": "205 E 21st St",
    "city": "Lanett",
    "state": "Al",
-   "zip": "36863"
+   "zip": "36863",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "LAZGFARMS318029",
@@ -659,33 +771,43 @@
    "id": "SANTIAGOBRAND01",
    "firstName": "Brandon",
    "lastName": "Santiago",
+   "business": "",
    "address": "2626 Johnson Mill Rd",
    "city": "Hamilton",
    "state": "Ga",
-   "zip": "31811"
+   "zip": "31811",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "LANC15062",
+   "firstName": "",
+   "lastName": "",
    "business": "Lanett High School",
    "address": "1301 South 8th Avenue",
    "city": "Lanett",
    "state": "Al",
-   "zip": "36863"
+   "zip": "36863",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "TIELKINGSGLET72",
    "firstName": "Gletha",
    "lastName": "Tielkings",
+   "business": "",
    "address": "88 Lee Road 275",
    "city": "Cusseta",
    "state": "Al",
    "zip": "36852",
-   "phone": "13347043177"
+   "phone": "13347043177",
+   "email": ""
  },
  {
    "id": "LONGERIC49",
    "firstName": "Eric",
    "lastName": "Long",
+   "business": "",
    "address": "2250 Wright's Mill Rd",
    "city": "Auburn",
    "state": "Al",
@@ -697,6 +819,7 @@
    "id": "EVANSTIFFANYW12",
    "firstName": "Tiffany",
    "lastName": "Evans",
+   "business": "",
    "address": "1069 County Road 264",
    "city": "Lanett",
    "state": "Al",
@@ -708,6 +831,7 @@
    "id": "HILLTERRYRUDO29",
    "firstName": "Terry",
    "lastName": "Hill",
+   "business": "",
    "address": "2950 55th Street",
    "city": "Valley",
    "state": "Al",
@@ -719,15 +843,19 @@
    "id": "SMITHTERRIELE53",
    "firstName": "Terrie",
    "lastName": "Smith",
+   "business": "",
    "address": "1278 Alabama Rd",
    "city": "Roopville",
    "state": "Ga",
-   "zip": "30170"
+   "zip": "30170",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "NITC15185",
    "firstName": "Alan",
    "lastName": "Nitchman",
+   "business": "",
    "address": "18822 County Rd 10",
    "city": "Hurtsboro",
    "state": "Al",
@@ -751,33 +879,42 @@
    "id": "KEITHSTEVEN82",
    "firstName": "Steven",
    "lastName": "Keith",
+   "business": "",
    "address": "495 Lee Road 733",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
+   "phone": "",
    "email": "sgkeith001@yahoo.com"
  },
  {
    "id": "SWEATMANBILL331",
    "firstName": "Bill",
    "lastName": "Sweatman",
+   "business": "",
    "address": "125 Lee Road 856",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
+   "phone": "",
    "email": "g536804@bellsouth.net"
  },
  {
    "id": "DANIELDENNIS02",
    "firstName": "Dennis",
    "lastName": "Daniel",
+   "business": "",
    "address": "221 Gray Hill Road",
    "city": "West Point",
    "state": "Ga",
-   "zip": "31833"
+   "zip": "31833",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "DCJC15268",
+   "firstName": "",
+   "lastName": "",
    "business": "D & J Enterprises, Inc.",
    "address": "3495 Lee Road 10",
    "city": "Auburn",
@@ -790,30 +927,37 @@
    "id": "COWARTDONALD307",
    "firstName": "Donald",
    "lastName": "Cowart",
+   "business": "",
    "address": "317 Hughuley Rd",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "17065668148"
+   "phone": "17065668148",
+   "email": ""
  },
  {
    "id": "WILLIAMSC10216",
    "firstName": "Andrew",
    "lastName": "Williams",
+   "business": "",
    "address": "6766 Sanford Rd",
    "city": "Alexander City",
    "state": "Al",
    "zip": "35010",
+   "phone": "",
    "email": "awilliams1519@gmail.com"
  },
  {
    "id": "RAHNKEITH368371",
    "firstName": "Keith",
    "lastName": "Rahn",
+   "business": "",
    "address": "2216 Vincente Drive",
    "city": "Auburn",
    "state": "Al",
-   "zip": "36830"
+   "zip": "36830",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "THOMASELEVENL25",
@@ -824,7 +968,8 @@
    "city": "Montgomery",
    "state": "Al",
    "zip": "36117",
-   "phone": "13342024541"
+   "phone": "13342024541",
+   "email": ""
  },
  {
    "id": "ROBINSONC13489",
@@ -842,60 +987,73 @@
    "id": "TILLGARYEL32508",
    "firstName": "Garyel",
    "lastName": "Till",
+   "business": "",
    "address": "5790 Ibis Rd",
    "city": "Milton",
    "state": "Ga",
-   "zip": "32583"
+   "zip": "32583",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "ADAMS,JRROBER88",
    "firstName": "Robert",
    "lastName": "Adams",
+   "business": "",
    "address": "508 Vaughan St",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
+   "phone": "",
    "email": "everettlevett74@gmail.com"
  },
  {
    "id": "MOLNARJARROD27",
    "firstName": "Jarrod",
    "lastName": "Molnar",
+   "business": "",
    "address": "7255 Bill Lundy Rd",
    "city": "Laurel Hill",
    "state": "Fl",
    "zip": "32567",
-   "phone": "18507283185"
+   "phone": "18507283185",
+   "email": ""
  },
  {
    "id": "BIANCHITIMOTH13",
    "firstName": "Timothy",
    "lastName": "Bianchi",
+   "business": "",
    "address": "112 Bent Oak Ln",
    "city": "Tallassee",
    "state": "Al",
    "zip": "36078",
-   "phone": "13342205912"
+   "phone": "13342205912",
+   "email": ""
  },
  {
    "id": "COOKTHOMASJAR60",
    "firstName": "Jared",
    "lastName": "Cook",
+   "business": "",
    "address": "3403 Al Highway 120",
    "city": "Notasulga",
    "state": "Al",
    "zip": "36866",
-   "phone": "13347907850"
+   "phone": "13347907850",
+   "email": ""
  },
  {
    "id": "MURPHREEDANIE64",
    "firstName": "Daniel",
    "lastName": "Murphree",
+   "business": "",
    "address": "1546 Mccurry Ln",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13347507697"
+   "phone": "13347507697",
+   "email": ""
  },
  {
    "id": "SCHULERPROPER45",
@@ -913,10 +1071,13 @@
    "id": "PRUITTSAMUELP96",
    "firstName": "Samuel",
    "lastName": "Pruitt",
+   "business": "",
    "address": "1505 Lee Road 150",
    "city": "Salem",
    "state": "Al",
-   "zip": "36874"
+   "zip": "36874",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "KOONJONATHAN319",
@@ -927,12 +1088,14 @@
    "city": "Phenix City",
    "state": "Al",
    "zip": "36868",
-   "phone": "13342983415"
+   "phone": "13342983415",
+   "email": ""
  },
  {
    "id": "BUTTSMICHAELN10",
    "firstName": "Michael",
    "lastName": "Butts",
+   "business": "",
    "address": "10179 Us Highway 280 E",
    "city": "Slaem",
    "state": "Al",
@@ -944,21 +1107,25 @@
    "id": "MCCORMICKOMA86",
    "firstName": "Oma",
    "lastName": "Mccormick",
+   "business": "",
    "address": "157 Beulah Lane",
    "city": "Camp Hill",
    "state": "Al",
    "zip": "36850",
-   "phone": "12567509498"
+   "phone": "12567509498",
+   "email": ""
  },
  {
    "id": "SMITHBETTIECU02",
    "firstName": "Bettie",
    "lastName": "Smith",
+   "business": "",
    "address": "230 Clarence Rd",
    "city": "Tallassee",
    "state": "Al",
    "zip": "36078",
-   "phone": "13345317303"
+   "phone": "13345317303",
+   "email": ""
  },
  {
    "id": "NEWMANC13482",
@@ -969,7 +1136,8 @@
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
-   "phone": "13348641230"
+   "phone": "13348641230",
+   "email": ""
  },
  {
    "id": "AUTOFINANCECA51",
@@ -980,17 +1148,20 @@
    "city": "Monroeville",
    "state": "Al",
    "zip": "36460",
-   "phone": "12517432288"
+   "phone": "12517432288",
+   "email": ""
  },
  {
    "id": "HANNAHANJIM3643",
    "firstName": "James",
    "lastName": "Hannahan",
+   "business": "",
    "address": "5009 River Chase Dr Bld 400a",
    "city": "Phenix City",
    "state": "Al",
    "zip": "36867",
-   "phone": "17069052274"
+   "phone": "17069052274",
+   "email": ""
  },
  {
    "id": "MillerRobert335",
@@ -1008,25 +1179,31 @@
    "id": "MCCULLOUGHARC26",
    "firstName": "Archie",
    "lastName": "Mccullough",
+   "business": "",
    "address": "344 Rehobeth Rd",
    "city": "Valley",
    "state": "Al",
    "zip": "36854",
-   "phone": "17065902396"
+   "phone": "17065902396",
+   "email": ""
  },
  {
    "id": "STROUDJOEORKA10",
    "firstName": "Joe",
    "lastName": "Stroud",
+   "business": "",
    "address": "815 E University Dr",
    "city": "Auburn",
    "state": "Al",
-   "zip": "36830"
+   "zip": "36830",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "HALLJ36863-3801",
    "firstName": "Johnny",
    "lastName": "Hall",
+   "business": "",
    "address": "3125 30th Ave. Sw",
    "city": "Lanett",
    "state": "Al",
@@ -1038,54 +1215,67 @@
    "id": "ROBERTSLARRY340",
    "firstName": "Larry",
    "lastName": "Roberts",
+   "business": "",
    "address": "3404 Riderwood Drive",
    "city": "Butler",
    "state": "Al",
    "zip": "36904",
-   "phone": "12054593874"
+   "phone": "12054593874",
+   "email": ""
  },
  {
    "id": "RECINOSWALFRE89",
    "firstName": "Walfre",
    "lastName": "Recinos",
+   "business": "",
    "address": "101 Veterans Pkwy Lot 153",
    "city": "Opelika",
    "state": "Al",
    "zip": "36801",
-   "phone": "13347441187"
+   "phone": "13347441187",
+   "email": ""
  },
  {
    "id": "WOODBRYANPATR79",
    "firstName": "Bryan",
    "lastName": "Wood",
+   "business": "",
    "address": "2314 Annandale Ln",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13343196405"
+   "phone": "13343196405",
+   "email": ""
  },
  {
    "id": "HEATONC13097",
    "firstName": "Kyle",
    "lastName": "Heaton",
+   "business": "",
    "address": "21968 Hwy 49 S",
    "city": "Tallassee",
    "state": "Al",
-   "zip": "36078"
+   "zip": "36078",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "POPEC9833",
    "firstName": "David",
    "lastName": "Pope",
+   "business": "",
    "address": "208 Childs Road",
    "city": "Troy",
    "state": "Al",
-   "zip": "36081"
+   "zip": "36081",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "BIERLYJERRY77",
    "firstName": "Gerald",
    "lastName": "Bierly",
+   "business": "",
    "address": "6766 Lee Road 262",
    "city": "Opelika",
    "state": "Al",
@@ -1097,16 +1287,19 @@
    "id": "SLEDGEWAYNE9763",
    "firstName": "Wayne",
    "lastName": "Sledge",
+   "business": "",
    "address": "147887 Se Grand Island Rd",
    "city": "Dayton",
    "state": "Or",
    "zip": "97114",
-   "phone": "15035596972"
+   "phone": "15035596972",
+   "email": ""
  },
  {
    "id": "MCCLELLANJERE59",
    "firstName": "Wayne",
    "lastName": "Mcclellan",
+   "business": "",
    "address": "35 Autumn Trail Ct",
    "city": "Wetumpka",
    "state": "Al",
@@ -1118,15 +1311,19 @@
    "id": "WYNNBRIAN37",
    "firstName": "Brian",
    "lastName": "Wynn",
+   "business": "",
    "address": "3203 Lee Road 145",
    "city": "Salem",
    "state": "Al",
-   "zip": "36874"
+   "zip": "36874",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "SELLERSNATHAN29",
    "firstName": "Nathaniel",
    "lastName": "Sellers",
+   "business": "",
    "address": "135 Deer Hollow Trl",
    "city": "Dadeville",
    "state": "Al",
@@ -1138,26 +1335,31 @@
    "id": "CAYPLESSMICHA36",
    "firstName": "Michael",
    "lastName": "Caypless",
+   "business": "",
    "address": "2294 County Road 49",
    "city": "Wadley",
    "state": "Al",
    "zip": "36276",
-   "phone": "13343381784"
+   "phone": "13343381784",
+   "email": ""
  },
  {
    "id": "LETTJIMMYMORR40",
    "firstName": "Jimmy",
    "lastName": "Lett",
+   "business": "",
    "address": "2590 Tysonville Loop",
    "city": "Shorter",
    "state": "Al",
    "zip": "36075",
+   "phone": "",
    "email": "doitriteplaster@gmail.com"
  },
  {
    "id": "HANSONWILLIAM69",
    "firstName": "Toby",
    "lastName": "Hanson",
+   "business": "",
    "address": "11455 Highway 22 E",
    "city": "New Site",
    "state": "Al",
@@ -1169,11 +1371,13 @@
    "id": "MARRSGARY360854",
    "firstName": "Gary",
    "lastName": "Marrs",
+   "business": "",
    "address": "3560 County Road 69",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
-   "phone": "12057531850"
+   "phone": "12057531850",
+   "email": ""
  },
  {
    "id": "252FARMS3686621",
@@ -1184,22 +1388,26 @@
    "city": "Notasulga",
    "state": "Al",
    "zip": "36866",
+   "phone": "",
    "email": "davidsmithtractors@yahoo.com"
  },
  {
    "id": "WILLIAMSC15613",
    "firstName": "Bryce",
    "lastName": "Williams",
+   "business": "",
    "address": "68 Star St",
    "city": "Goshen",
    "state": "Al",
    "zip": "36035",
-   "phone": "13343440456"
+   "phone": "13343440456",
+   "email": ""
  },
  {
    "id": "BROWNJONATHAN45",
    "firstName": "Jonathan",
    "lastName": "Brown",
+   "business": "",
    "address": "10260 County Road 28",
    "city": "Lafayette",
    "state": "Al",
@@ -1211,14 +1419,18 @@
    "id": "WALKERCHARLES29",
    "firstName": "Charles",
    "lastName": "Walker",
+   "business": "",
    "address": "3938 Cotton Valley Ln",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "18287128853"
+   "phone": "18287128853",
+   "email": ""
  },
  {
    "id": "LEESCOTC13750",
+   "firstName": "",
+   "lastName": "",
    "business": "Lee-scott Academy",
    "address": "1601 Academy Drive",
    "city": "Auburn",
@@ -1231,6 +1443,7 @@
    "id": "DOWDELLJAMES78",
    "firstName": "James",
    "lastName": "Dowdell",
+   "business": "",
    "address": "300 Lee Road 20",
    "city": "Auburn",
    "state": "Al",
@@ -1242,6 +1455,7 @@
    "id": "MARTINMITCHEL38",
    "firstName": "Mitchell",
    "lastName": "Martin",
+   "business": "",
    "address": "2477 Danbury Dr",
    "city": "Auburn",
    "state": "Al",
@@ -1253,6 +1467,7 @@
    "id": "BROWNROBERTMO38",
    "firstName": "Robert",
    "lastName": "Brown",
+   "business": "",
    "address": "711 Se Krueger Pkwy",
    "city": "Stuart",
    "state": "Fl",
@@ -1264,16 +1479,19 @@
    "id": "SANFORDWILLIA06",
    "firstName": "William",
    "lastName": "Sanford",
+   "business": "",
    "address": "3035 County Road 216",
    "city": "Lanett",
    "state": "Al",
    "zip": "36863",
-   "phone": "17065186096"
+   "phone": "17065186096",
+   "email": ""
  },
  {
    "id": "SOUTHERLANDJA10",
    "firstName": "James",
    "lastName": "Southerland",
+   "business": "",
    "address": "140 Arbor Trce",
    "city": "Braselton",
    "state": "Ga",
@@ -1285,11 +1503,13 @@
    "id": "WILLIAMSWILLI67",
    "firstName": "Willie",
    "lastName": "Williams",
+   "business": "",
    "address": "2801 Fawn Ave",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "17067735342"
+   "phone": "17067735342",
+   "email": ""
  },
  {
    "id": "HOLLANDHOMES335",
@@ -1307,11 +1527,13 @@
    "id": "GILLENWATERSC93",
    "firstName": "Charles",
    "lastName": "Gillenwaters",
+   "business": "",
    "address": "22674 Sen Claude Pepper Dr",
    "city": "Camp Hill",
    "state": "Al",
    "zip": "36850",
-   "phone": "12567496935"
+   "phone": "12567496935",
+   "email": ""
  },
  {
    "id": "SAUGAHATC12809",
@@ -1322,57 +1544,68 @@
    "city": "Tallassee",
    "state": "Al",
    "zip": "36078",
-   "phone": "12052574606"
+   "phone": "12052574606",
+   "email": ""
  },
  {
    "id": "GEIGERKEITH3688",
    "firstName": "Keith",
    "lastName": "Geiger",
+   "business": "",
    "address": "1212 E Samford Ave",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13342090237"
+   "phone": "13342090237",
+   "email": ""
  },
  {
    "id": "SHARPLAUREN3675",
    "firstName": "Lauren",
    "lastName": "Sharp",
+   "business": "",
    "address": "19632 Highway 49 S",
    "city": "Notauslga",
    "state": "Al",
    "zip": "36866",
-   "phone": "13344019547"
+   "phone": "13344019547",
+   "email": ""
  },
  {
    "id": "PARKERCURTIS341",
    "firstName": "Curtis",
    "lastName": "Parker",
+   "business": "",
    "address": "4650 Lee Road 159",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13343322862"
+   "phone": "13343322862",
+   "email": ""
  },
  {
    "id": "SMITHBRANDY60",
    "firstName": "Brandy",
    "lastName": "Smith",
+   "business": "",
    "address": "9200 Us Highway 29 N",
    "city": "Cusseta",
    "state": "Al",
    "zip": "36852",
-   "phone": "13347429695"
+   "phone": "13347429695",
+   "email": ""
  },
  {
    "id": "REEVESCHARLES11",
    "firstName": "Charles",
    "lastName": "Reeves",
+   "business": "",
    "address": "70 Lee Road 2066",
    "city": "Phenix City",
    "state": "Al",
    "zip": "36870",
-   "phone": "13346144276"
+   "phone": "13346144276",
+   "email": ""
  },
  {
    "id": "MITCHAMFARM3608",
@@ -1383,12 +1616,14 @@
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
+   "phone": "",
    "email": "mitchamsautopart@bellsouth.net"
  },
  {
    "id": "TROTTERCRAIG361",
    "firstName": "Craig",
    "lastName": "Trotter",
+   "business": "",
    "address": "4825 Smokey Rd",
    "city": "Newnan",
    "state": "Ga",
@@ -1400,30 +1635,37 @@
    "id": "SCOTTBRADNEY333",
    "firstName": "Bradney",
    "lastName": "Scott",
+   "business": "",
    "address": "106 Niebel Blvd",
    "city": "Cusseta",
    "state": "Ga",
    "zip": "31805",
+   "phone": "",
    "email": "bradney.scott@gmail.com"
  },
  {
    "id": "COLLIERROBERT53",
    "firstName": "Robert",
    "lastName": "Collier",
+   "business": "",
    "address": "4440 Old Salem Road",
    "city": "Wetumpka",
    "state": "Al",
-   "zip": "36092"
+   "zip": "36092",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "PRITCHARDROBE10",
    "firstName": "Robert",
    "lastName": "Pritchard",
+   "business": "",
    "address": "2091 County Road 9",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
-   "phone": "13349916159"
+   "phone": "13349916159",
+   "email": ""
  },
  {
    "id": "STEELEJAMES3636",
@@ -1434,12 +1676,14 @@
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
-   "phone": "13344210918"
+   "phone": "13344210918",
+   "email": ""
  },
  {
    "id": "CLARKC14878",
    "firstName": "Cleve",
    "lastName": "Clark",
+   "business": "",
    "address": "1028 County Road 30",
    "city": "Lafayette",
    "state": "Al",
@@ -1451,10 +1695,12 @@
    "id": "sanfordh3508938",
    "firstName": "Harold",
    "lastName": "Sanford",
+   "business": "",
    "address": "494 Hicks Rd",
    "city": "Kellyton",
    "state": "Al",
    "zip": "35089",
+   "phone": "",
    "email": "hbsanford61@gmail.com"
  },
  {
@@ -1473,31 +1719,37 @@
    "id": "FURMANLINDAS314",
    "firstName": "Linda",
    "lastName": "Furman",
+   "business": "",
    "address": "66 Lee Road 852",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13347493766"
+   "phone": "13347493766",
+   "email": ""
  },
  {
    "id": "DANSBYC13265",
    "firstName": "Danny",
    "lastName": "Dansby",
+   "business": "",
    "address": "P.o. Box 2834",
    "city": "Opelika",
    "state": "Al",
    "zip": "36801",
-   "phone": "13347039451"
+   "phone": "13347039451",
+   "email": ""
  },
  {
    "id": "HORNSBYJASONA03",
    "firstName": "Jason",
    "lastName": "Hornsby",
+   "business": "",
    "address": "2548 Little Rd",
    "city": "Tallassee",
    "state": "Al",
    "zip": "36078",
-   "phone": "13342835126"
+   "phone": "13342835126",
+   "email": ""
  },
  {
    "id": "MENEFEEC13114",
@@ -1507,27 +1759,33 @@
    "address": "2756 Heritage Hill Road",
    "city": "Tuskegee",
    "state": "Al",
-   "zip": "36083"
+   "zip": "36083",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "SHAWJAKE97",
    "firstName": "Jake",
    "lastName": "Shaw",
+   "business": "",
    "address": "1030 Gregory Glen Rd",
    "city": "Opelika",
    "state": "Al",
    "zip": "36801",
-   "phone": "13347401423"
+   "phone": "13347401423",
+   "email": ""
  },
  {
    "id": "STRICKLAND,JR71",
    "firstName": "Jesse",
    "lastName": "Strickland",
+   "business": "",
    "address": "4619 Lee Road",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13347509921"
+   "phone": "13347509921",
+   "email": ""
  },
  {
    "id": "RAYWATERAUTHO27",
@@ -1538,41 +1796,50 @@
    "city": "Alexander City",
    "state": "Al",
    "zip": "35010",
-   "phone": "12562153546"
+   "phone": "12562153546",
+   "email": ""
  },
  {
    "id": "MARSHALLWILLI59",
    "firstName": "William",
    "lastName": "Marshall",
+   "business": "",
    "address": "340 Rock Ford Rd",
    "city": "Uriah",
    "state": "Al",
    "zip": "36480",
-   "phone": "12518622336"
+   "phone": "12518622336",
+   "email": ""
  },
  {
    "id": "BISHOPBRENT3006",
    "firstName": "Brent",
    "lastName": "Bishop",
+   "business": "",
    "address": "417 Thrash Rd",
    "city": "Lagrange",
    "state": "Ga",
    "zip": "30241",
-   "phone": "17065232092"
+   "phone": "17065232092",
+   "email": ""
  },
  {
    "id": "LOTTMARKGRIFF69",
    "firstName": "Mark",
    "lastName": "Lott",
+   "business": "",
    "address": "1131 County Road 515",
    "city": "Lanett",
    "state": "Al",
-   "zip": "36863"
+   "zip": "36863",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "CHEATHAMRONAL15",
    "firstName": "Ronald",
    "lastName": "Cheatham",
+   "business": "",
    "address": "Po Box 132",
    "city": "Fort Mitchell",
    "state": "Al",
@@ -1584,6 +1851,7 @@
    "id": "FINCHERGEORGE44",
    "firstName": "George",
    "lastName": "Fincher",
+   "business": "",
    "address": "1981 Cox Road",
    "city": "Auburn",
    "state": "Al",
@@ -1595,75 +1863,91 @@
    "id": "MARTINGERALD313",
    "firstName": "Gerald",
    "lastName": "Martin",
+   "business": "",
    "address": "7673 Hwy 63 North",
    "city": "Alexander City",
    "state": "Al",
    "zip": "35010",
-   "phone": "12563298281"
+   "phone": "12563298281",
+   "email": ""
  },
  {
    "id": "PREUSRICHARD341",
    "firstName": "Richard",
    "lastName": "Preus",
+   "business": "",
    "address": "2730 Sophia Way",
    "city": "Auburn",
    "state": "Al",
    "zip": "36830",
-   "phone": "13345249853"
+   "phone": "13345249853",
+   "email": ""
  },
  {
    "id": "MCINTYREBILLY49",
    "firstName": "Billy",
    "lastName": "Mcintyre",
+   "business": "",
    "address": "2600 Stonybrook Rd",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13343012980"
+   "phone": "13343012980",
+   "email": ""
  },
  {
    "id": "HODGESTEVE68",
    "firstName": "Steve",
    "lastName": "Hodge",
+   "business": "",
    "address": "10613 Highway 50",
    "city": "Dadeville",
    "state": "Al",
    "zip": "36853",
-   "phone": "12565961543"
+   "phone": "12565961543",
+   "email": ""
  },
  {
    "id": "RODMANTERRY/L26",
    "firstName": "Terry",
    "lastName": "Rodman",
+   "business": "",
    "address": "1714 Trenton Trl",
    "city": "Alexander City",
    "state": "Al",
    "zip": "35010",
-   "phone": "13347409980"
+   "phone": "13347409980",
+   "email": ""
  },
  {
    "id": "CLAYTONSONIE/82",
    "firstName": "Sonie",
    "lastName": "Clayton",
+   "business": "",
    "address": "6204 Lee Road",
    "city": "Smiths",
    "state": "Al",
    "zip": "36877",
-   "phone": "17065753310"
+   "phone": "17065753310",
+   "email": ""
  },
  {
    "id": "RIDDLEJERRELL43",
    "firstName": "Jerrell",
    "lastName": "Riddle",
+   "business": "",
    "address": "1806 Chewacala Rd",
    "city": "Opelika",
    "state": "Al",
-   "zip": "36804"
+   "zip": "36804",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "LUNCEFORC14032",
    "firstName": "Michael",
    "lastName": "Lunceford",
+   "business": "",
    "address": "503 Mclure Ave",
    "city": "Opelika",
    "state": "Al",
@@ -1673,6 +1957,8 @@
  },
  {
    "id": "BONNIEPC12873",
+   "firstName": "",
+   "lastName": "",
    "business": "Bonnie Plant Farm",
    "address": "1727 Hwy 223",
    "city": "Union Springs",
@@ -1685,75 +1971,91 @@
    "id": "BUSCHKATHERIN55",
    "firstName": "Katherin",
    "lastName": "Busch",
+   "business": "",
    "address": "6077 County Road 290",
    "city": "Lafayette",
    "state": "Al",
    "zip": "36862",
-   "phone": "13347070180"
+   "phone": "13347070180",
+   "email": ""
  },
  {
    "id": "VAUGHNMICKEYJ42",
    "firstName": "Mickey",
    "lastName": "Vaughn",
+   "business": "",
    "address": "99 Mount Olive Cir",
    "city": "Wadley",
    "state": "Al",
-   "zip": "36276"
+   "zip": "36276",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "KIRKDREW3022273",
    "firstName": "Drew",
    "lastName": "Kirk",
+   "business": "",
    "address": "514 Breezy Hill Rd",
    "city": "Greenville",
    "state": "Al",
    "zip": "30222",
+   "phone": "",
    "email": "dkirk@mccoygrading.com"
  },
  {
    "id": "ARWOODMICHAEL65",
    "firstName": "Michael",
    "lastName": "Arwood",
+   "business": "",
    "address": "6434 Lee Road 279",
    "city": "Valley",
    "state": "Al",
    "zip": "36854",
+   "phone": "",
    "email": "marwood@gmail.com"
  },
  {
    "id": "GOODWINJERRY13",
    "firstName": "Jerry",
    "lastName": "Goodwin",
+   "business": "",
    "address": "784 Harris Road",
    "city": "Dadeville",
    "state": "Al",
    "zip": "36853",
-   "phone": "13343192360"
+   "phone": "13343192360",
+   "email": ""
  },
  {
    "id": "INGRAMQUANDAR57",
    "firstName": "Quandara",
    "lastName": "Ingram",
+   "business": "",
    "address": "822 Cliff Dr",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "13347342709"
+   "phone": "13347342709",
+   "email": ""
  },
  {
    "id": "MITCHELLJOSEP52",
    "firstName": "Joseph",
    "lastName": "Mitchell",
+   "business": "",
    "address": "1102 County Road 495",
    "city": "Valley",
    "state": "Al",
    "zip": "36854",
-   "phone": "13347423625"
+   "phone": "13347423625",
+   "email": ""
  },
  {
    "id": "TERRYRUSSELL308",
    "firstName": "Russell",
    "lastName": "Terry",
+   "business": "",
    "address": "1820 46th Ave Sw",
    "city": "Lanett",
    "state": "Al",
@@ -1770,12 +2072,14 @@
    "city": "Smiths Station",
    "state": "Al",
    "zip": "36877",
+   "phone": "",
    "email": "shelbybranton@smithsstational.gov"
  },
  {
    "id": "MOOREMATTHEWA49",
    "firstName": "Anthony",
    "lastName": "Moore",
+   "business": "",
    "address": "266 Lee Rd 185",
    "city": "Opelika",
    "state": "Al",
@@ -1792,12 +2096,14 @@
    "city": "Columbus",
    "state": "Ga",
    "zip": "31909",
+   "phone": "",
    "email": "vince@lowvoltageking.com"
  },
  {
    "id": "WRIGGLESWORTH29",
    "firstName": "Marc",
    "lastName": "Wrigglesworth",
+   "business": "",
    "address": "3839 Piedmont Lake Rd",
    "city": "Pine Mountain",
    "state": "Ga",
@@ -1809,6 +2115,7 @@
    "id": "JOHNSONBRANDO39",
    "firstName": "Brandon",
    "lastName": "Johnson",
+   "business": "",
    "address": "1670 Al Highway 120",
    "city": "Notasulga",
    "state": "Al",
@@ -1820,36 +2127,43 @@
    "id": "MILESWALTER3078",
    "firstName": "Elaine",
    "lastName": "Miles",
+   "business": "",
    "address": "4539 Whitesville Road",
    "city": "Lagrange",
    "state": "Ga",
    "zip": "30240",
-   "phone": "17065947065"
+   "phone": "17065947065",
+   "email": ""
  },
  {
    "id": "BOSTDON04",
    "firstName": "Don",
    "lastName": "Bost",
+   "business": "",
    "address": "2909 Coosa County Road 63",
    "city": "Alexander City",
    "state": "Al",
    "zip": "35010",
-   "phone": "12567491719"
+   "phone": "12567491719",
+   "email": ""
  },
  {
    "id": "BUTTREYJONATH13",
    "firstName": "Michael",
    "lastName": "Buttrey",
+   "business": "",
    "address": "2600 Grand National Pkwy",
    "city": "Opelika",
    "state": "Al",
    "zip": "36801",
+   "phone": "",
    "email": "buttr@live.com"
  },
  {
    "id": "VINESMAJOR36836",
    "firstName": "Major",
    "lastName": "Vines",
+   "business": "",
    "address": "1148 County Road 32",
    "city": "Lafayette",
    "state": "Al",
@@ -1861,25 +2175,31 @@
    "id": "FLOYDC14540",
    "firstName": "Larry",
    "lastName": "Floyd",
+   "business": "",
    "address": "4502 Co. Rd. 79",
    "city": "Union Springs",
    "state": "Al",
    "zip": "36089",
-   "phone": "13347240349"
+   "phone": "13347240349",
+   "email": ""
  },
  {
    "id": "USDA,ARS3683273",
+   "firstName": "",
+   "lastName": "",
    "business": "Usda,ars National Soil Dynamics Lab",
    "address": "411 S Donahue Drive",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "13343290063"
+   "phone": "13343290063",
+   "email": ""
  },
  {
    "id": "BEANTIMMY368606",
    "firstName": "Timmy",
    "lastName": "Bean",
+   "business": "",
    "address": "178 Whitman Hill Road",
    "city": "Notasulga",
    "state": "Al",
@@ -1891,21 +2211,25 @@
    "id": "HENDERSOC14402",
    "firstName": "Mark",
    "lastName": "Henderson",
+   "business": "",
    "address": "333 Princess Drive",
    "city": "Tallassee",
    "state": "Al",
    "zip": "36078",
-   "phone": "13342834516"
+   "phone": "13342834516",
+   "email": ""
  },
  {
    "id": "SOJOONY3627425",
    "firstName": "Joon",
    "lastName": "So",
+   "business": "",
    "address": "10712 County Road 16",
    "city": "Roanoke",
    "state": "Al",
    "zip": "36274",
-   "phone": "14044215717"
+   "phone": "14044215717",
+   "email": ""
  },
  {
    "id": "DEANCOC1755",
@@ -1923,6 +2247,7 @@
    "id": "ROBERTSADAM3665",
    "firstName": "Adam",
    "lastName": "Roberts",
+   "business": "",
    "address": "10080 Veterans Memorial Pkwy",
    "city": "Lanett",
    "state": "Al",
@@ -1934,16 +2259,19 @@
    "id": "TALLEYCHARLES85",
    "firstName": "Charles",
    "lastName": "Talley",
+   "business": "",
    "address": "1570 S. Donahue Dr.",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "13345023656"
+   "phone": "13345023656",
+   "email": ""
  },
  {
    "id": "VICKERSWILLIA82",
    "firstName": "William",
    "lastName": "Vickers",
+   "business": "",
    "address": "13224 Highway 22 E",
    "city": "New Site",
    "state": "Al",
@@ -1955,11 +2283,13 @@
    "id": "YEAGER,E10",
    "firstName": "Coye",
    "lastName": "Yeager",
+   "business": "",
    "address": "999 Lee Road 121",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13347071154"
+   "phone": "13347071154",
+   "email": ""
  },
  {
    "id": "PARKERTIV1222",
@@ -1969,12 +2299,15 @@
    "address": "1508 Gilmer Avenue",
    "city": "Tallassee",
    "state": "Al",
-   "zip": "36078"
+   "zip": "36078",
+   "phone": "",
+   "email": ""
  },
  {
    "id": "WAGNERNANCY3611",
    "firstName": "Andrew",
    "lastName": "Wagner",
+   "business": "",
    "address": "4295 County Road 12",
    "city": "Lafayette",
    "state": "Al",
@@ -1986,50 +2319,60 @@
    "id": "LEWISELIJAH3626",
    "firstName": "Elijah",
    "lastName": "Lewis",
+   "business": "",
    "address": "410 National Forrest Rd 904",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
-   "phone": "13343321957"
+   "phone": "13343321957",
+   "email": ""
  },
  {
    "id": "LOWERYLILLIE331",
    "firstName": "Lillie",
    "lastName": "Lowery",
+   "business": "",
    "address": "407 Gautier St",
    "city": "Tuskegee",
    "state": "Al",
    "zip": "36083",
-   "phone": "13347249700"
+   "phone": "13347249700",
+   "email": ""
  },
  {
    "id": "KLARENBEEKGAR10",
    "firstName": "Gary",
    "lastName": "Klarenbeek",
+   "business": "",
    "address": "2522 Middlebrook Lane",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "13347037777"
+   "phone": "13347037777",
+   "email": ""
  },
  {
    "id": "LUCASD3683204",
    "firstName": "Daniel",
    "lastName": "Lucas",
+   "business": "",
    "address": "1593 Talhem St",
    "city": "Auburn",
    "state": "Al",
    "zip": "36832",
-   "phone": "13344443250"
+   "phone": "13344443250",
+   "email": ""
  },
  {
    "id": "MILLERTHOMASF22",
    "firstName": "Thomas",
    "lastName": "Miller",
+   "business": "",
    "address": "33 Lee Road 761",
    "city": "Opelika",
    "state": "Al",
    "zip": "36804",
-   "phone": "13347036626"
+   "phone": "13347036626",
+   "email": ""
  }
 ]
