@@ -48,14 +48,6 @@
    "position": "Management"
  },
  {
-   "id": 6,
-   "branch": "Auburn",
-   "firstName": "Daniel",
-   "lastName": "Cushman",
-   "email": "dcushman@sunsouth.com",
-   "position": "Sales"
- },
- {
    "id": 8,
    "branch": "Auburn",
    "firstName": "Marc",
