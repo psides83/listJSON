@@ -434,14 +434,6 @@
   {
     "make": "FRONTIER",
     "model": "AP11F",
-    "stock": "322033",
-    "serial": "1XFAP11FAN0012767",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "FRONTIER",
-    "model": "AP11F",
     "stock": "322034",
     "serial": "1XFAP11FCN0012765",
     "condition": "New",
@@ -596,14 +588,6 @@
     "model": "3025D",
     "stock": "323944",
     "serial": "1PY3025DJNB003358",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "LMC",
-    "model": "5DH-16-18M",
-    "stock": "325171",
-    "serial": "21-366043",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -908,14 +892,6 @@
     "model": "RC2072",
     "stock": "325803",
     "serial": "1XFRC20XHN0205695",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "FRONTIER",
-    "model": "RC2072",
-    "stock": "325804",
-    "serial": "1XFRC20XEN0205696",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -1449,17 +1425,25 @@
   },
   {
     "make": "JOHN DEERE",
-    "model": "5065E",
-    "stock": "329129",
-    "serial": "1PY5065EHNN410224",
+    "model": "3025E",
+    "stock": "329343",
+    "serial": "1LV3025EKNN159309",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
   {
     "make": "JOHN DEERE",
     "model": "3025E",
-    "stock": "329343",
-    "serial": "1LV3025EKNN159309",
+    "stock": "329344",
+    "serial": "1LV3025EHNP160828",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "329345",
+    "serial": "1LV3025EHNP160750",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -1556,6 +1540,30 @@
     "model": "RC4072",
     "stock": "330328",
     "serial": "1XFRC40XVN0007819",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "330909",
+    "serial": "1LV3025ETNP160753",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "330910",
+    "serial": "1LV3025ECNP160760",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "330912",
+    "serial": "1LV3025EJNP160837",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -2594,14 +2602,6 @@
   {
     "make": "JOHN DEERE",
     "model": "520M",
-    "stock": "338626",
-    "serial": "1P0520MXHND093631",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "520M",
     "stock": "338629",
     "serial": "1P0520MXPND093960",
     "condition": "New",
@@ -3209,14 +3209,6 @@
   },
   {
     "make": "LMC",
-    "model": "L110X",
-    "stock": "341357",
-    "serial": "22-367594",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "LMC",
     "model": "L2006",
     "stock": "341358",
     "serial": "22-367835",
@@ -3305,6 +3297,14 @@
   },
   {
     "make": "JOHN DEERE",
+    "model": "Z920M",
+    "stock": "342287",
+    "serial": "1TC920MVPNT120071",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
     "model": "Z930M",
     "stock": "342319",
     "serial": "1TC930MCHNT120402",
@@ -3324,14 +3324,6 @@
     "model": "1025R",
     "stock": "342754",
     "serial": "1LV1025RAEH218244",
-    "condition": "Used",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "560M",
-    "stock": "342755",
-    "serial": "1E0560MDAJK454959",
     "condition": "Used",
     "status": "In Stock (Not Sold)"
   },
@@ -3412,14 +3404,6 @@
     "model": "AT322311",
     "stock": "302819",
     "serial": "020576",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "4044M",
-    "stock": "303034",
-    "serial": "1LV4044MPNN118136",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3552,14 +3536,6 @@
     "status": "In Stock (Sold)"
   },
   {
-    "make": "FRONTIER",
-    "model": "RT3073",
-    "stock": "319857",
-    "serial": "1XFRT30XTM0217595",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
     "make": "JOHN DEERE",
     "model": "DB96",
     "stock": "320480",
@@ -3644,6 +3620,14 @@
     "model": "5055E",
     "stock": "324519",
     "serial": "1PY5055ETNN407984",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "LMC",
+    "model": "5DH-16-18M",
+    "stock": "325171",
+    "serial": "21-366043",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3832,6 +3816,14 @@
     "status": "In Stock (Sold)"
   },
   {
+    "make": "JOHN DEERE",
+    "model": "5065E",
+    "stock": "329129",
+    "serial": "1PY5065EHNN410224",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
     "make": "MISC",
     "model": "107C",
     "stock": "330215",
@@ -3864,10 +3856,10 @@
     "status": "In Stock (Sold)"
   },
   {
-    "make": "",
-    "model": "",
+    "make": "JOHN DEERE",
+    "model": "MX7",
     "stock": "331200",
-    "serial": "",
+    "serial": "1P00MX7CVNP043716",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3876,6 +3868,14 @@
     "model": "MX8",
     "stock": "331234",
     "serial": "1P00MX8ECNP048924",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "MX6",
+    "stock": "331364",
+    "serial": "1P00MX6CPNP085539",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3972,14 +3972,6 @@
     "model": "60D IN.",
     "stock": "333046",
     "serial": "1M02060DJNM076710",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "XUV590M S4",
-    "stock": "333052",
-    "serial": "1M0590MBPNM051098",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -4210,6 +4202,14 @@
   {
     "make": "JOHN DEERE",
     "model": "520M",
+    "stock": "338626",
+    "serial": "1P0520MXHND093631",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "520M",
     "stock": "338627",
     "serial": "1P0520MXVND093625",
     "condition": "New",
@@ -4300,6 +4300,14 @@
     "model": "G60-GA-WT",
     "stock": "341345",
     "serial": "22-367812",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "LMC",
+    "model": "L110X",
+    "stock": "341357",
+    "serial": "22-367594",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -5146,22 +5154,6 @@
   {
     "make": "JOHN DEERE",
     "model": "3025E",
-    "stock": "329344",
-    "serial": "1LV3025EHNP160828",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3025E",
-    "stock": "329345",
-    "serial": "1LV3025EHNP160750",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3025E",
     "stock": "329346",
     "serial": "",
     "condition": "New",
@@ -5298,32 +5290,8 @@
   {
     "make": "JOHN DEERE",
     "model": "3025E",
-    "stock": "330909",
-    "serial": "1LV3025ETNP160753",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3025E",
-    "stock": "330910",
-    "serial": "1LV3025ECNP160760",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3025E",
     "stock": "330911",
     "serial": "",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3025E",
-    "stock": "330912",
-    "serial": "1LV3025EJNP160837",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -6450,14 +6418,6 @@
   {
     "make": "JOHN DEERE",
     "model": "Z920M",
-    "stock": "342287",
-    "serial": "1TC920MVPNT120071",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "Z920M",
     "stock": "342288",
     "serial": "",
     "condition": "New",
@@ -6819,6 +6779,14 @@
     "make": "FRONTIER",
     "model": "TD3427",
     "stock": "343312",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
+  },
+  {
+    "make": "LMC",
+    "model": "HDGD-65",
+    "stock": "343323",
     "serial": "",
     "condition": "New",
     "status": "Pending (Not Sold)"
