@@ -1,8 +1,8 @@
 {
   "title": "The Good News",
-  "paragraphs": 
+  "paragraphs":
   [
-    "sections": 
+    {"sections":
     [
       {
         "text": "God created us in his own image and likeness to enjoy perfect relationship with him (",
@@ -15,8 +15,10 @@
       {
         "text": "). We feel this brokenness everyday of our lives. But there is good news!"
       }
-    ],
-    "sections": 
+    ]
+    },
+    {
+    "sections":
     [
       {
         "text": "From the beginning, God had a plan to send a perfect substitute who would reconcile us back to himself (",
@@ -33,17 +35,20 @@
       {
         "text": ")."
       }
-    ],
+    ]
+    },
+    {
     "sections":
     [
       {
         "text": "If you would like to know more about following Jesus, please contact us today!"
       }
     ]
+    }
   ],
-  "footer": 
+  "footer":
   {
     "phone": "(334) 541-4444",
-    "email": "fbceministry@gmail.com
+    "email": "fbceministry@gmail.com"
   }
 }
