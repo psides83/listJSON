@@ -12817,12 +12817,12 @@
     "model": "6120M",
     "id": "000663",
     "tradeAttached": true,
-    "tradeSold": false,
-    "dateTradeSold": "",
+    "tradeSold": true,
+    "dateTradeSold": "Nov 22, 2022",
     "saleYear": "2022",
     "saleMonth": "09",
-    "tradeSoldYear": "",
-    "tradeSoldMonth": ""
+    "tradeSoldYear": "2022",
+    "tradeSoldMonth": "11"
   },
   {
     "saleID": "000393",
@@ -13410,6 +13410,25 @@
     "dateTradeSold": "",
     "saleYear": "2022",
     "saleMonth": "11",
+    "tradeSoldYear": "",
+    "tradeSoldMonth": ""
+  },
+  {
+    "saleID": "000418",
+    "saleDate": "Dec 8, 2022",
+    "customerID": "RUSSELLRONALD69",
+    "customerName": "RONALD W WAYNE RUSSELL",
+    "companyName": "",
+    "salePrice": "4000",
+    "margin": "338.21",
+    "make": "MISC",
+    "model": "7X20",
+    "id": "000695",
+    "tradeAttached": false,
+    "tradeSold": false,
+    "dateTradeSold": "",
+    "saleYear": "2022",
+    "saleMonth": "12",
     "tradeSoldYear": "",
     "tradeSoldMonth": ""
   }
