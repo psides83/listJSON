@@ -80,14 +80,6 @@
     "status": "In Stock (Not Sold)"
   },
   {
-    "make": "JOHN DEERE",
-    "model": "330G",
-    "stock": "313195",
-    "serial": "1T0330GMENF420254",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
     "make": "FRONTIER",
     "model": "LR2060L",
     "stock": "313928",
@@ -1076,22 +1068,6 @@
     "model": "RT3073",
     "stock": "333480",
     "serial": "1XFRT30XAM0219937",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "FRONTIER",
-    "model": "RT3073",
-    "stock": "333489",
-    "serial": "1XFRT30XPM0221499",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "FRONTIER",
-    "model": "RT3073",
-    "stock": "333492",
-    "serial": "1XFRT30XCM0221491",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -2184,14 +2160,6 @@
     "status": "In Stock (Not Sold)"
   },
   {
-    "make": "JOHN DEERE",
-    "model": "325G",
-    "stock": "343615",
-    "serial": "1T0325GMPPJ448110",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
     "make": "FRONTIER",
     "model": "RC2072",
     "stock": "343734",
@@ -2866,14 +2834,6 @@
   {
     "make": "JOHN DEERE",
     "model": "XUV590M S4",
-    "stock": "351084",
-    "serial": "1M0590MBPPM060970",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "XUV590M S4",
     "stock": "351094",
     "serial": "1M0590MBPPM060967",
     "condition": "New",
@@ -3185,6 +3145,14 @@
   },
   {
     "make": "JOHN DEERE",
+    "model": "3038E",
+    "stock": "353559",
+    "serial": "1LV3038EHPR146100",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
     "model": "Z525E",
     "stock": "353927",
     "serial": "1GXZ525BCGH050034",
@@ -3276,14 +3244,6 @@
     "model": "X330",
     "stock": "354697",
     "serial": "1M0X330AEPM153881",
-    "condition": "New",
-    "status": "In Stock (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "520M",
-    "stock": "354745",
-    "serial": "1P0520MXVPD104416",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -3528,6 +3488,14 @@
     "status": "In Stock (Not Sold)"
   },
   {
+    "make": "FRONTIER",
+    "model": "TM1164",
+    "stock": "356150",
+    "serial": "1XFTM11XVP0000386",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
     "make": "JOHN DEERE",
     "model": "X350",
     "stock": "356193",
@@ -3540,6 +3508,14 @@
     "model": "600R",
     "stock": "356194",
     "serial": "1P0600RXAPD025042",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "640R",
+    "stock": "356200",
+    "serial": "1P0640RTEPD025872",
     "condition": "New",
     "status": "In Stock (Not Sold)"
   },
@@ -3560,14 +3536,6 @@
     "status": "In Stock (Not Sold)"
   },
   {
-    "make": "JOHN DEERE",
-    "model": "4066M",
-    "stock": "306572",
-    "serial": "1LV4066MCPN105399",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
     "make": "FRONTIER",
     "model": "LP1184",
     "stock": "325822",
@@ -3580,14 +3548,6 @@
     "model": "648R",
     "stock": "326927",
     "serial": "1TC648RACNT100336",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
-    "make": "FRONTIER",
-    "model": "PG12",
-    "stock": "328541",
-    "serial": "1XFPG12XAL0000262",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3609,9 +3569,17 @@
   },
   {
     "make": "FRONTIER",
-    "model": "AV20F",
-    "stock": "333032",
-    "serial": "1XFAV20FCN0007689",
+    "model": "RT3073",
+    "stock": "333489",
+    "serial": "1XFRT30XPM0221499",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "RT3073",
+    "stock": "333492",
+    "serial": "1XFRT30XCM0221491",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3657,14 +3625,6 @@
   },
   {
     "make": "JOHN DEERE",
-    "model": "5105M",
-    "stock": "342985",
-    "serial": "1PY5105MAPB000476",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
     "model": "520M",
     "stock": "343560",
     "serial": "1P0520MXEND096112",
@@ -3676,6 +3636,14 @@
     "model": "520M",
     "stock": "343562",
     "serial": "1P0520MXCND096113",
+    "condition": "New",
+    "status": "In Stock (Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "325G",
+    "stock": "343615",
+    "serial": "1T0325GMPPJ448110",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -3780,14 +3748,6 @@
     "model": "FC15R",
     "stock": "347298",
     "serial": "1P0FC3REKPC002514",
-    "condition": "New",
-    "status": "In Stock (Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "540M",
-    "stock": "347714",
-    "serial": "1P0540MXEPD065908",
     "condition": "New",
     "status": "In Stock (Sold)"
   },
@@ -4013,6 +3973,14 @@
     "stock": "300555",
     "serial": "5011287040",
     "condition": "Used",
+    "status": "On Hold"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "330G",
+    "stock": "313195",
+    "serial": "1T0330GMENF420254",
+    "condition": "New",
     "status": "On Hold"
   },
   {
@@ -4251,7 +4219,7 @@
     "make": "JOHN DEERE",
     "model": "Z720E",
     "stock": "349296",
-    "serial": "",
+    "serial": "1TC720EVTPR080031",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4267,7 +4235,7 @@
     "make": "JOHN DEERE",
     "model": "652M",
     "stock": "350396",
-    "serial": "",
+    "serial": "1TC652MKHPT110097",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4347,7 +4315,7 @@
     "make": "JOHN DEERE",
     "model": "HPX615E",
     "stock": "352381",
-    "serial": "",
+    "serial": "1M0615EAERM070251",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4355,7 +4323,7 @@
     "make": "JOHN DEERE",
     "model": "HPX615E",
     "stock": "352382",
-    "serial": "",
+    "serial": "1M0615EAHRM070250",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4395,14 +4363,6 @@
     "make": "JOHN DEERE",
     "model": "HPX615E",
     "stock": "353544",
-    "serial": "",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "3038E",
-    "stock": "353559",
     "serial": "",
     "condition": "New",
     "status": "Pending (Not Sold)"
@@ -4777,25 +4737,9 @@
   },
   {
     "make": "FRONTIER",
-    "model": "TM1164",
-    "stock": "356150",
-    "serial": "",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "JOHN DEERE",
-    "model": "640R",
-    "stock": "356200",
-    "serial": "1P0640RTEPD025872",
-    "condition": "New",
-    "status": "Pending (Not Sold)"
-  },
-  {
-    "make": "FRONTIER",
     "model": "GM4072E",
     "stock": "356256",
-    "serial": "",
+    "serial": "1XFGM40EPP0001177",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4812,6 +4756,14 @@
     "model": "3407",
     "stock": "356266",
     "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "XUV825M S4",
+    "stock": "356385",
+    "serial": "1M0825MBHPM060735",
     "condition": "New",
     "status": "Pending (Not Sold)"
   },
@@ -4859,6 +4811,14 @@
     "make": "JOHN DEERE",
     "model": "1705",
     "stock": "351727",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "TX 4X2",
+    "stock": "353759",
     "serial": "",
     "condition": "New",
     "status": "Pending (Sold)"
