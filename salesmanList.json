@@ -48,19 +48,11 @@
     "position": "Sales"
   },
   {
-    "id": "knewsom@sunsouth.com",
+    "id": "abutler@sunsouth.com",
     "branch": "Abbeville",
-    "firstName": "Kenneth",
-    "lastName": "Newsom",
-    "email": "knewsom@sunsouth.com",
-    "position": "Sales"
-  },
-  {
-    "id": "clangley@sunsouth.com",
-    "branch": "Andalusia",
-    "firstName": "Cary",
-    "lastName": "Langley",
-    "email": "clangley@sunsouth.com",
+    "firstName": "Ashley",
+    "lastName": "Butler",
+    "email": "abutler@sunsouth.com",
     "position": "Sales"
   },
   {
@@ -69,6 +61,14 @@
     "firstName": "Drew",
     "lastName": "Bowers",
     "email": "dbowers@sunsouth.com",
+    "position": "Sales"
+  },
+  {
+    "id": "clangley@sunsouth.com",
+    "branch": "Andalusia",
+    "firstName": "Cary",
+    "lastName": "Langley",
+    "email": "clangley@sunsouth.com",
     "position": "Sales"
   },
   {
@@ -144,14 +144,6 @@
     "position": "Management"
   },
   {
-    "id": "mwilliams@sunsouth.com",
-    "branch": "Barnesville",
-    "firstName": "Megan",
-    "lastName": "Williams",
-    "email": "mwilliams@sunsouth.com",
-    "position": "Management"
-  },
-  {
     "id": "rwalters@sunsouth.com",
     "branch": "Barnesville",
     "firstName": "Rusty",
@@ -190,6 +182,14 @@
     "lastName": "Bridges",
     "email": "tbridges@sunsouth.com",
     "position": "Management"
+  },
+  {
+    "id": "tvines@sunsouth.com",
+    "branch": "Blakely",
+    "firstName": "Thomas",
+    "lastName": "Vines",
+    "email": "tvines@sunsouth.com",
+    "position": "Sales"
   },
   {
     "id": "bboyd@sunsouth.com",
@@ -298,18 +298,10 @@
   {
     "id": "larnette@sunsouth.com",
     "branch": "Columbus",
-    "firstName": "Arnette",
-    "lastName": "Locia",
+    "firstName": "Locia",
+    "lastName": "Arnette",
     "email": "larnette@sunsouth.com",
     "position": "Management"
-  },
-  {
-    "id": "ewinters@sunsouth.com",
-    "branch": "Columbus",
-    "firstName": "Elisa",
-    "lastName": "Winters",
-    "email": "ewinters@sunsouth.com",
-    "position": "Sales"
   },
   {
     "id": "jsellers@sunsouth.com",
@@ -317,14 +309,6 @@
     "firstName": "Jackson",
     "lastName": "Sellers",
     "email": "jsellers@sunsouth.com",
-    "position": "Sales"
-  },
-  {
-    "id": "ryancey@sunsouth.com",
-    "branch": "Columbus",
-    "firstName": "Rodney",
-    "lastName": "Yancey",
-    "email": "ryancey@sunsouth.com",
     "position": "Sales"
   },
   {
@@ -392,14 +376,6 @@
     "position": "Sales"
   },
   {
-    "id": "tvines@sunsouth.com",
-    "branch": "Donalsonville",
-    "firstName": "Thomas",
-    "lastName": "Vines",
-    "email": "tvines@sunsouth.com",
-    "position": "Sales"
-  },
-  {
     "id": "jdean@sunsouth.com",
     "branch": "Dothan",
     "firstName": "Josh",
@@ -416,27 +392,11 @@
     "position": "Management"
   },
   {
-    "id": "pstough@sunsouth.com",
+    "id": "jmcclellan@sunsouth.com",
     "branch": "Dothan",
-    "firstName": "Phillip",
+    "firstName": "Jerry",
     "lastName": "Stough",
-    "email": "pstough@sunsouth.com",
-    "position": "Sales"
-  },
-  {
-    "id": "rdismukes@sunsouth.com",
-    "branch": "Dothan",
-    "firstName": "Ryan",
-    "lastName": "Dismukes",
-    "email": "rdismukes@sunsouth.com",
-    "position": "Sales"
-  },
-  {
-    "id": "wholloman@sunsouth.com",
-    "branch": "Dothan",
-    "firstName": "William",
-    "lastName": "Holloman",
-    "email": "wholloman@sunsouth.com",
+    "email": "jmcclellan@sunsouth.com",
     "position": "Sales"
   },
   {
@@ -520,14 +480,6 @@
     "position": "Management"
   },
   {
-    "id": "bnichols@sunsouth.com",
-    "branch": "Meridian",
-    "firstName": "Bill",
-    "lastName": "Nichols",
-    "email": "bnichols@sunsouth.com",
-    "position": "Management"
-  },
-  {
     "id": "jbrand@sunsouth.com",
     "branch": "Meridian",
     "firstName": "James",
@@ -541,6 +493,14 @@
     "firstName": "Justin",
     "lastName": "Dickerson",
     "email": "jdickerson@sunsouth.com",
+    "position": "Management"
+  },
+  {
+    "id": "mweaver@sunsouth.com",
+    "branch": "Meridian",
+    "firstName": "Mark",
+    "lastName": "Weaver",
+    "email": "mweaver@sunsouth.com",
     "position": "Sales"
   },
   {
@@ -576,11 +536,11 @@
     "position": "Sales"
   },
   {
-    "id": "smoore@sunsouth.com",
+    "id": "mpopwell@sunsouth.com",
     "branch": "Montgomery",
-    "firstName": "Scott",
-    "lastName": "Moore",
-    "email": "smoore@sunsouth.com",
+    "firstName": "Michael",
+    "lastName": "Popwell",
+    "email": "mpopwell@sunsouth.com",
     "position": "Management"
   },
   {
@@ -664,6 +624,14 @@
     "position": "Sales"
   },
   {
+    "id": "ltraweek@sunsouth.com",
+    "branch": "Tuscaloosa",
+    "firstName": "Luke",
+    "lastName": "Traweek",
+    "email": "ltraweek@sunsouth.com",
+    "position": "Sales"
+  },
+  {
     "id": "mgreen@sunsouth.com",
     "branch": "Tuscaloosa",
     "firstName": "Matt",
@@ -677,6 +645,14 @@
     "firstName": "William",
     "lastName": "Ellis",
     "email": "wellis@sunsouth.com",
+    "position": "Sales"
+  },
+  {
+    "id": "whood@sunsouth.com",
+    "branch": "Tuscaloosa",
+    "firstName": "William",
+    "lastName": "Hood",
+    "email": "whood@sunsouth.com",
     "position": "Sales"
   }
 ]
