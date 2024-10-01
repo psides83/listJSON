@@ -1,3610 +1,3610 @@
 [
   {
-    "Make": "MISC",
-    "Model": "LAND SHARK",
-    "Stock No": "295706",
-    "Product Id No": "446466",
-    "New/Used": "Used",
-    "Inventory Status": "Demonstrator"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "294438",
-    "Product Id No": "1P0520MXHLD065177",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "14BOP8210",
-    "Stock No": "309211",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "3043D",
-    "Stock No": "320623",
-    "Product Id No": "1PY3043DKMB002528",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "FRONTIER",
-    "Model": "GM4060E",
-    "Stock No": "320798",
-    "Product Id No": "1XFGM40ETM0000024",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "FRONTIER",
-    "Model": "GM4060E",
-    "Stock No": "320799",
-    "Product Id No": "1XFGM40EJM0000027",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "PC7",
-    "Stock No": "320901",
-    "Product Id No": "1T0PC07XPM0000124",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "3032E",
-    "Stock No": "320986",
-    "Product Id No": "1LV3032EHNP147300",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "FRONTIER",
-    "Model": "RT3049",
-    "Stock No": "321715",
-    "Product Id No": "1XFRT30XJM0208061",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "RHINO",
-    "Model": "TW14",
-    "Stock No": "322672",
-    "Product Id No": "10532",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "RHINO",
-    "Model": "TW16",
-    "Stock No": "322691",
-    "Product Id No": "11807",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "RHINO",
-    "Model": "TW16",
-    "Stock No": "322692",
-    "Product Id No": "11808",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
-  },
-  {
-    "Make": "RHINO",
-    "Model": "TW16",
-    "Stock No": "322693",
-    "Product Id No": "11809",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "LAND SHARK",
+    "stock": "295706",
+    "serial": "446466",
+    "condition": "Used",
+    "status": "Demonstrator"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "294438",
+    "serial": "1P0520MXHLD065177",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "14BOP8210",
+    "stock": "309211",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3043D",
+    "stock": "320623",
+    "serial": "1PY3043DKMB002528",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "GM4060E",
+    "stock": "320798",
+    "serial": "1XFGM40ETM0000024",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "GM4060E",
+    "stock": "320799",
+    "serial": "1XFGM40EJM0000027",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "PC7",
+    "stock": "320901",
+    "serial": "1T0PC07XPM0000124",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3032E",
+    "stock": "320986",
+    "serial": "1LV3032EHNP147300",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "RT3049",
+    "stock": "321715",
+    "serial": "1XFRT30XJM0208061",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "RHINO",
+    "model": "TW14",
+    "stock": "322672",
+    "serial": "10532",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "RHINO",
+    "model": "TW16",
+    "stock": "322691",
+    "serial": "11807",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "RHINO",
+    "model": "TW16",
+    "stock": "322692",
+    "serial": "11808",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
+  },
+  {
+    "make": "RHINO",
+    "model": "TW16",
+    "stock": "322693",
+    "serial": "11809",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW16",
-    "Stock No": "322694",
-    "Product Id No": "11810",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW16",
+    "stock": "322694",
+    "serial": "11810",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "324993",
-    "Product Id No": "1PY5075EVNN121717",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "324993",
+    "serial": "1PY5075EVNN121717",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "6DH-16-22H",
-    "Stock No": "325176",
-    "Product Id No": "21-366048",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "6DH-16-22H",
+    "stock": "325176",
+    "serial": "21-366048",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "6DH-16-22H",
-    "Stock No": "325178",
-    "Product Id No": "22-366051",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "6DH-16-22H",
+    "stock": "325178",
+    "serial": "22-366051",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "6DH-16-22H",
-    "Stock No": "325179",
-    "Product Id No": "21-366050",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "6DH-16-22H",
+    "stock": "325179",
+    "serial": "21-366050",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2060",
-    "Stock No": "325768",
-    "Product Id No": "1XFBB20XAN0064791",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2060",
+    "stock": "325768",
+    "serial": "1XFBB20XAN0064791",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2060",
-    "Stock No": "325769",
-    "Product Id No": "1XFBB20XVN0064790",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2060",
+    "stock": "325769",
+    "serial": "1XFBB20XVN0064790",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2060",
-    "Stock No": "325770",
-    "Product Id No": "1XFBB20XAN0064788",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2060",
+    "stock": "325770",
+    "serial": "1XFBB20XAN0064788",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2060",
-    "Stock No": "325773",
-    "Product Id No": "1XFBB20XTN0064796",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2060",
+    "stock": "325773",
+    "serial": "1XFBB20XTN0064796",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5072",
-    "Stock No": "325775",
-    "Product Id No": "1XFBB50XPN0109030",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5072",
+    "stock": "325775",
+    "serial": "1XFBB50XPN0109030",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5072",
-    "Stock No": "325777",
-    "Product Id No": "1XFBB50XVN0109017",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5072",
+    "stock": "325777",
+    "serial": "1XFBB50XVN0109017",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5084",
-    "Stock No": "325809",
-    "Product Id No": "1XFBB50XTN0109849",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5084",
+    "stock": "325809",
+    "serial": "1XFBB50XTN0109849",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5084",
-    "Stock No": "325810",
-    "Product Id No": "1XFBB50XCN0109517",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5084",
+    "stock": "325810",
+    "serial": "1XFBB50XCN0109517",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5084",
-    "Stock No": "325811",
-    "Product Id No": "1XFBB50XJN0109516",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5084",
+    "stock": "325811",
+    "serial": "1XFBB50XJN0109516",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060R",
-    "Stock No": "325856",
-    "Product Id No": "1XFGM10XLM0006187",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060R",
+    "stock": "325856",
+    "serial": "1XFGM10XLM0006187",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060R",
-    "Stock No": "325857",
-    "Product Id No": "1XFGM10XLM0006190",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060R",
+    "stock": "325857",
+    "serial": "1XFGM10XLM0006190",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060R",
-    "Stock No": "325858",
-    "Product Id No": "1XFGM10XEM0006189",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060R",
+    "stock": "325858",
+    "serial": "1XFGM10XEM0006189",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060R",
-    "Stock No": "325859",
-    "Product Id No": "1XFGM10XHM0006191",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060R",
+    "stock": "325859",
+    "serial": "1XFGM10XHM0006191",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "WC1205",
-    "Stock No": "325861",
-    "Product Id No": "1XFWC12XEN0801143",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "WC1205",
+    "stock": "325861",
+    "serial": "1XFWC12XEN0801143",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RB5048L",
-    "Stock No": "325862",
-    "Product Id No": "1XFRB50LHN0006082",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RB5048L",
+    "stock": "325862",
+    "serial": "1XFRB50LHN0006082",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RB5048L",
-    "Stock No": "325863",
-    "Product Id No": "1XFRB50LLN0006081",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RB5048L",
+    "stock": "325863",
+    "serial": "1XFRB50LLN0006081",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "CP1596",
-    "Stock No": "325869",
-    "Product Id No": "1XFCP15XEM0000391",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "CP1596",
+    "stock": "325869",
+    "serial": "1XFCP15XEM0000391",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RB2060L",
-    "Stock No": "325899",
-    "Product Id No": "1XFRB20LEM0010843",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RB2060L",
+    "stock": "325899",
+    "serial": "1XFRB20LEM0010843",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "327102",
-    "Product Id No": "1LV1025RCPP868075",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "327102",
+    "serial": "1LV1025RCPP868075",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "327103",
-    "Product Id No": "1LV1025RJPP868115",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "327103",
+    "serial": "1LV1025RJPP868115",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "PG12",
-    "Stock No": "328542",
-    "Product Id No": "1XFPG12XVL0000261",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "PG12",
+    "stock": "328542",
+    "serial": "1XFPG12XVL0000261",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "AT436525",
-    "Stock No": "328604",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "AT436525",
+    "stock": "328604",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "AT436525",
-    "Stock No": "328605",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "AT436525",
+    "stock": "328605",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4072",
-    "Stock No": "330327",
-    "Product Id No": "1XFRC40XTN0007814",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4072",
+    "stock": "330327",
+    "serial": "1XFRC40XTN0007814",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4072",
-    "Stock No": "330328",
-    "Product Id No": "1XFRC40XVN0007819",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4072",
+    "stock": "330328",
+    "serial": "1XFRC40XVN0007819",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20E",
-    "Stock No": "330329",
-    "Product Id No": "1XFAV20EEP0003210",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20E",
+    "stock": "330329",
+    "serial": "1XFAV20EEP0003210",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20E",
-    "Stock No": "330333",
-    "Product Id No": "1XFAV20EKP0003214",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20E",
+    "stock": "330333",
+    "serial": "1XFAV20EKP0003214",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "MX8",
-    "Stock No": "331234",
-    "Product Id No": "1P00MX8ECNP048924",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "MX8",
+    "stock": "331234",
+    "serial": "1P00MX8ECNP048924",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5072",
-    "Stock No": "333706",
-    "Product Id No": "1XFBB50XEN0110559",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5072",
+    "stock": "333706",
+    "serial": "1XFBB50XEN0110559",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060E",
-    "Stock No": "334089",
-    "Product Id No": "1XFGM10EAN0388588",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060E",
+    "stock": "334089",
+    "serial": "1XFGM10EAN0388588",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM1060E",
-    "Stock No": "334103",
-    "Product Id No": "1XFGM10ELN0388589",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM1060E",
+    "stock": "334103",
+    "serial": "1XFGM10ELN0388589",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "PHD100",
-    "Stock No": "334182",
-    "Product Id No": "1XFPHD0XCN0392380",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "PHD100",
+    "stock": "334182",
+    "serial": "1XFPHD0XCN0392380",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "KV15762",
-    "Stock No": "334594",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "KV15762",
+    "stock": "334594",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "MG20F",
-    "Stock No": "334685",
-    "Product Id No": "1XFMG20FHN0001470",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "MG20F",
+    "stock": "334685",
+    "serial": "1XFMG20FHN0001470",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "MG20F",
-    "Stock No": "334686",
-    "Product Id No": "1XFMG20FHN0001582",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "MG20F",
+    "stock": "334686",
+    "serial": "1XFMG20FHN0001582",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "ATHEN",
-    "Model": "156-0522-221",
-    "Stock No": "335241",
-    "Product Id No": "I22325",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "ATHEN",
+    "model": "156-0522-221",
+    "stock": "335241",
+    "serial": "I22325",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5055E",
-    "Stock No": "335875",
-    "Product Id No": "1PY5055EHNN155360",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5055E",
+    "stock": "335875",
+    "serial": "1PY5055EHNN155360",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "336477",
-    "Product Id No": "4T0FB2029N1002073",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "336477",
+    "serial": "4T0FB2029N1002073",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20 3.5",
-    "Stock No": "336479",
-    "Product Id No": "4TOFB2021N1002357",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X20 3.5",
+    "stock": "336479",
+    "serial": "4TOFB2021N1002357",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "336480",
-    "Product Id No": "4T0FB2021N1002469",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "336480",
+    "serial": "4T0FB2021N1002469",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X24 BT",
-    "Stock No": "336488",
-    "Product Id No": "4TOFB2425N1002355",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X24 BT",
+    "stock": "336488",
+    "serial": "4TOFB2425N1002355",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X24",
-    "Stock No": "336489",
-    "Product Id No": "4T0FB2421N1002319",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X24",
+    "stock": "336489",
+    "serial": "4T0FB2421N1002319",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X24 BT",
-    "Stock No": "336491",
-    "Product Id No": "4T0FB2424N1002153",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "7X24 BT",
+    "stock": "336491",
+    "serial": "4T0FB2424N1002153",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z545R",
-    "Stock No": "336701",
-    "Product Id No": "1GX545RFKNN062325",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z545R",
+    "stock": "336701",
+    "serial": "1GX545RFKNN062325",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2060",
-    "Stock No": "337515",
-    "Product Id No": "1XFRC20XCN0211295",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2060",
+    "stock": "337515",
+    "serial": "1XFRC20XCN0211295",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2060",
-    "Stock No": "337516",
-    "Product Id No": "1XFRC20XEN0211286",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2060",
+    "stock": "337516",
+    "serial": "1XFRC20XEN0211286",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2060",
-    "Stock No": "337517",
-    "Product Id No": "1XFRC20XHN0211285",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2060",
+    "stock": "337517",
+    "serial": "1XFRC20XHN0211285",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2060",
-    "Stock No": "337522",
-    "Product Id No": "1XFRC20XJN0211280",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2060",
+    "stock": "337522",
+    "serial": "1XFRC20XJN0211280",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2072",
-    "Stock No": "337557",
-    "Product Id No": "1XFRC20XEN0211238",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2072",
+    "stock": "337557",
+    "serial": "1XFRC20XEN0211238",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20G",
-    "Stock No": "337790",
-    "Product Id No": "1XFAV20GEP0003516",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20G",
+    "stock": "337790",
+    "serial": "1XFAV20GEP0003516",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "HARRE",
-    "Model": "5508T",
-    "Stock No": "338575",
-    "Product Id No": "5508 0722100",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "HARRE",
+    "model": "5508T",
+    "stock": "338575",
+    "serial": "5508 0722100",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5060E",
-    "Stock No": "338914",
-    "Product Id No": "1PY5060EHPR400862",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5060E",
+    "stock": "338914",
+    "serial": "1PY5060EHPR400862",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10051",
-    "Stock No": "339182",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10051",
+    "stock": "339182",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10051",
-    "Stock No": "339183",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10051",
+    "stock": "339183",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11287",
-    "Stock No": "339193",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11287",
+    "stock": "339193",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11287",
-    "Stock No": "339194",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11287",
+    "stock": "339194",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5050E",
-    "Stock No": "339444",
-    "Product Id No": "1PY5050EJPR100953",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5050E",
+    "stock": "339444",
+    "serial": "1PY5050EJPR100953",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5060",
-    "Stock No": "339757",
-    "Product Id No": "1XFBB50XKN0112379",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5060",
+    "stock": "339757",
+    "serial": "1XFBB50XKN0112379",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5060",
-    "Stock No": "339758",
-    "Product Id No": "1XFBB50XPN0112378",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5060",
+    "stock": "339758",
+    "serial": "1XFBB50XPN0112378",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5060",
-    "Stock No": "340232",
-    "Product Id No": "1XFBB50XAN0112968",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5060",
+    "stock": "340232",
+    "serial": "1XFBB50XAN0112968",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2048",
-    "Stock No": "340238",
-    "Product Id No": "1XFBB20XCN0068491",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2048",
+    "stock": "340238",
+    "serial": "1XFBB20XCN0068491",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2048",
-    "Stock No": "340239",
-    "Product Id No": "1XFBB20XEN0068490",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2048",
+    "stock": "340239",
+    "serial": "1XFBB20XEN0068490",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5060",
-    "Stock No": "340955",
-    "Product Id No": "1XFBB50XPN0112767",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5060",
+    "stock": "340955",
+    "serial": "1XFBB50XPN0112767",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB5060",
-    "Stock No": "341282",
-    "Product Id No": "1XFBB50XPP0117213",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB5060",
+    "stock": "341282",
+    "serial": "1XFBB50XPP0117213",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "F300ZA",
-    "Stock No": "341318",
-    "Product Id No": "2275478",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "F300ZA",
+    "stock": "341318",
+    "serial": "2275478",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "F300ZA",
-    "Stock No": "341319",
-    "Product Id No": "2275476",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "F300ZA",
+    "stock": "341319",
+    "serial": "2275476",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "HDBS2",
-    "Stock No": "341335",
-    "Product Id No": "22-367807",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "HDBS2",
+    "stock": "341335",
+    "serial": "22-367807",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "341669",
-    "Product Id No": "1PY5075EVPR126606",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "341669",
+    "serial": "1PY5075EVPR126606",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "341698",
-    "Product Id No": "1PY5075EJPR126618",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "341698",
+    "serial": "1PY5075EJPR126618",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "341699",
-    "Product Id No": "1PY5075ECPR126631",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "341699",
+    "serial": "1PY5075ECPR126631",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5060E",
-    "Stock No": "341777",
-    "Product Id No": "1PY5060ELPR400830",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5060E",
+    "stock": "341777",
+    "serial": "1PY5060ELPR400830",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3049",
-    "Stock No": "342210",
-    "Product Id No": "1XFRT30XPN0232388",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3049",
+    "stock": "342210",
+    "serial": "1XFRT30XPN0232388",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "342474",
-    "Product Id No": "1TC930MCEPT123644",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "342474",
+    "serial": "1TC930MCEPT123644",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z920M",
-    "Stock No": "342522",
-    "Product Id No": "1TC920MVVPT121021",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z920M",
+    "stock": "342522",
+    "serial": "1TC920MVVPT121021",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "PHD395",
-    "Stock No": "342767",
-    "Product Id No": "1XFPHD1XLN0000248",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "PHD395",
+    "stock": "342767",
+    "serial": "1XFPHD1XLN0000248",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "PHD395",
-    "Stock No": "342885",
-    "Product Id No": "1XFPHD1XCN0000245",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "PHD395",
+    "stock": "342885",
+    "serial": "1XFPHD1XCN0000245",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TS12-3",
-    "Stock No": "343149",
-    "Product Id No": "34918",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TS12-3",
+    "stock": "343149",
+    "serial": "34918",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2072",
-    "Stock No": "343427",
-    "Product Id No": "1XFRC20XPN0214936",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2072",
+    "stock": "343427",
+    "serial": "1XFRC20XPN0214936",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2072",
-    "Stock No": "343734",
-    "Product Id No": "1XFRC20XVN0216286",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2072",
+    "stock": "343734",
+    "serial": "1XFRC20XVN0216286",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3049",
-    "Stock No": "344047",
-    "Product Id No": "1XFRT30XAN0233676",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3049",
+    "stock": "344047",
+    "serial": "1XFRT30XAN0233676",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "344064",
-    "Product Id No": "1PY5075EVPR426128",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "344064",
+    "serial": "1PY5075EVPR426128",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6105E",
-    "Stock No": "344164",
-    "Product Id No": "1P06105ECH0010676",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6105E",
+    "stock": "344164",
+    "serial": "1P06105ECH0010676",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5067E",
-    "Stock No": "344203",
-    "Product Id No": "1PY5067ECPR401180",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5067E",
+    "stock": "344203",
+    "serial": "1PY5067ECPR401180",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUHN",
-    "Model": "GF7802THA",
-    "Stock No": "344580",
-    "Product Id No": "KSAA1019L50F00211",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUHN",
+    "model": "GF7802THA",
+    "stock": "344580",
+    "serial": "KSAA1019L50F00211",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12F",
-    "Stock No": "344975",
-    "Product Id No": "1XFAP12FAN0077021",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP12F",
+    "stock": "344975",
+    "serial": "1XFAP12FAN0077021",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12F",
-    "Stock No": "345188",
-    "Product Id No": "1XFAP12FLN0077019",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP12F",
+    "stock": "345188",
+    "serial": "1XFAP12FLN0077019",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6105E",
-    "Stock No": "345225",
-    "Product Id No": "1P06105EHP6251641",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6105E",
+    "stock": "345225",
+    "serial": "1P06105EHP6251641",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6120E",
-    "Stock No": "345226",
-    "Product Id No": "1P06120EKP6251858",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6120E",
+    "stock": "345226",
+    "serial": "1P06120EKP6251858",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2072",
-    "Stock No": "345275",
-    "Product Id No": "1XFRC20XPP0219864",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2072",
+    "stock": "345275",
+    "serial": "1XFRC20XPP0219864",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5055E",
-    "Stock No": "345381",
-    "Product Id No": "1PY5055EVNN407958",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5055E",
+    "stock": "345381",
+    "serial": "1PY5055EVNN407958",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "345615",
-    "Product Id No": "1TC930MVTPT121171",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "345615",
+    "serial": "1TC930MVTPT121171",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M",
-    "Stock No": "347413",
-    "Product Id No": "1M0590MACPM062374",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV590M",
+    "stock": "347413",
+    "serial": "1M0590MACPM062374",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "MG20F",
-    "Stock No": "347495",
-    "Product Id No": "1XFMG20FTN0002168",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "MG20F",
+    "stock": "347495",
+    "serial": "1XFMG20FTN0002168",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "450M",
-    "Stock No": "347765",
-    "Product Id No": "1E0450MSLPP491116",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "450M",
+    "stock": "347765",
+    "serial": "1E0450MSLPP491116",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12F",
-    "Stock No": "348419",
-    "Product Id No": "1XFAP12FVP0082138",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP12F",
+    "stock": "348419",
+    "serial": "1XFAP12FVP0082138",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5050E",
-    "Stock No": "348493",
-    "Product Id No": "1PY5050ECPR101389",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5050E",
+    "stock": "348493",
+    "serial": "1PY5050ECPR101389",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5067E",
-    "Stock No": "348523",
-    "Product Id No": "1PY5067EPPR101142",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5067E",
+    "stock": "348523",
+    "serial": "1PY5067EPPR101142",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "35 P",
-    "Stock No": "348839",
-    "Product Id No": "1FF035PAJPK000788",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "35 P",
+    "stock": "348839",
+    "serial": "1FF035PAJPK000788",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "AT445276",
-    "Stock No": "348843",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "AT445276",
+    "stock": "348843",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z920M",
-    "Stock No": "349041",
-    "Product Id No": "1TC920MVPPT121286",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z920M",
+    "stock": "349041",
+    "serial": "1TC920MVPPT121286",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z920M",
-    "Stock No": "349769",
-    "Product Id No": "1TC920MCCPP120823",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z920M",
+    "stock": "349769",
+    "serial": "1TC920MCCPP120823",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "TD-14S",
-    "Stock No": "350243",
-    "Product Id No": "7NDTBDT23PM000284",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "TD-14S",
+    "stock": "350243",
+    "serial": "7NDTBDT23PM000284",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "652M",
-    "Stock No": "350396",
-    "Product Id No": "1TC652MKHPT110097",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "652M",
+    "stock": "350396",
+    "serial": "1TC652MKHPT110097",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "350818",
-    "Product Id No": "1TC930MCVPT126800",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "350818",
+    "serial": "1TC930MCVPT126800",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "35 P",
-    "Stock No": "350993",
-    "Product Id No": "1FF035PAAPK001816",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "35 P",
+    "stock": "350993",
+    "serial": "1FF035PAAPK001816",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV835",
-    "Stock No": "351276",
-    "Product Id No": "1M0835MNENM050552",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV835",
+    "stock": "351276",
+    "serial": "1M0835MNENM050552",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AB13G",
-    "Stock No": "351307",
-    "Product Id No": "1XFAB13GTP0022830",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AB13G",
+    "stock": "351307",
+    "serial": "1XFAB13GTP0022830",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4060",
-    "Stock No": "351483",
-    "Product Id No": "1XFRC40XEP0010325",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4060",
+    "stock": "351483",
+    "serial": "1XFRC40XEP0010325",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4060",
-    "Stock No": "351486",
-    "Product Id No": "1XFRC40XLP0010323",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4060",
+    "stock": "351486",
+    "serial": "1XFRC40XLP0010323",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4072",
-    "Stock No": "351491",
-    "Product Id No": "1XFRC40XCP0010858",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4072",
+    "stock": "351491",
+    "serial": "1XFRC40XCP0010858",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC4072",
-    "Stock No": "351492",
-    "Product Id No": "1XFRC40XTP0010859",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC4072",
+    "stock": "351492",
+    "serial": "1XFRC40XTP0010859",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM4060E",
-    "Stock No": "351497",
-    "Product Id No": "1XFGM40ETP0001226",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM4060E",
+    "stock": "351497",
+    "serial": "1XFGM40ETP0001226",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM4060E",
-    "Stock No": "351498",
-    "Product Id No": "1XFGM40ECP0001225",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM4060E",
+    "stock": "351498",
+    "serial": "1XFGM40ECP0001225",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV835M",
-    "Stock No": "351751",
-    "Product Id No": "1M0835MAEJM013296",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV835M",
+    "stock": "351751",
+    "serial": "1M0835MAEJM013296",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "370B",
-    "Stock No": "351993",
-    "Product Id No": "1LV0370BHP0050846",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "370B",
+    "stock": "351993",
+    "serial": "1LV0370BHP0050846",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "BB2048L",
-    "Stock No": "352212",
-    "Product Id No": "1XFBB20LLN0016450",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "BB2048L",
+    "stock": "352212",
+    "serial": "1XFBB20LLN0016450",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "TM1048L",
-    "Stock No": "352522",
-    "Product Id No": "1XFTM10LJP0000173",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "TM1048L",
+    "stock": "352522",
+    "serial": "1XFTM10LJP0000173",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "331G",
-    "Stock No": "352562",
-    "Product Id No": "1T0331GMJNF422504",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "331G",
+    "stock": "352562",
+    "serial": "1T0331GMJNF422504",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV865M",
-    "Stock No": "352566",
-    "Product Id No": "1M0865MACPM061034",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV865M",
+    "stock": "352566",
+    "serial": "1M0865MACPM061034",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X390",
-    "Stock No": "352982",
-    "Product Id No": "1M0X390AKPM152402",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X390",
+    "stock": "352982",
+    "serial": "1M0X390AKPM152402",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4052M",
-    "Stock No": "353235",
-    "Product Id No": "1LV4052MCKK104781",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "4052M",
+    "stock": "353235",
+    "serial": "1LV4052MCKK104781",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20H",
-    "Stock No": "353262",
-    "Product Id No": "1XFAV20HLP0006339",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20H",
+    "stock": "353262",
+    "serial": "1XFAV20HLP0006339",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z370R ELECTRIC",
-    "Stock No": "353722",
-    "Product Id No": "1GX370RBCPR010568",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z370R ELECTRIC",
+    "stock": "353722",
+    "serial": "1GX370RBCPR010568",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "333G",
-    "Stock No": "353978",
-    "Product Id No": "1T0333GMJNF419565",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "333G",
+    "stock": "353978",
+    "serial": "1T0333GMJNF419565",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "SC42",
-    "Stock No": "354117",
-    "Product Id No": "TIDS77374",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "SC42",
+    "stock": "354117",
+    "serial": "TIDS77374",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC15R",
-    "Stock No": "354251",
-    "Product Id No": "1P0FC3REVRB002994",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC15R",
+    "stock": "354251",
+    "serial": "1P0FC3REVRB002994",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC15R",
-    "Stock No": "354252",
-    "Product Id No": "1P0FC3REERC003501",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC15R",
+    "stock": "354252",
+    "serial": "1P0FC3REERC003501",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC15R",
-    "Stock No": "354256",
-    "Product Id No": "1P0FC3RECRB002985",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC15R",
+    "stock": "354256",
+    "serial": "1P0FC3RECRB002985",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355170",
-    "Product Id No": "1TC915EAPRR130033",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355170",
+    "serial": "1TC915EAPRR130033",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355189",
-    "Product Id No": "1TC915EVLRR130111",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355189",
+    "serial": "1TC915EVLRR130111",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355190",
-    "Product Id No": "1TC915EVHRR130109",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355190",
+    "serial": "1TC915EVHRR130109",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355215",
-    "Product Id No": "1TC915ECTPR130045",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355215",
+    "serial": "1TC915ECTPR130045",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355218",
-    "Product Id No": "1TC915ECCPR130018",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355218",
+    "serial": "1TC915ECCPR130018",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355235",
-    "Product Id No": "1TC915ECAPR130037",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355235",
+    "serial": "1TC915ECAPR130037",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z950M",
-    "Stock No": "355244",
-    "Product Id No": "1TC950MDERR130676",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z950M",
+    "stock": "355244",
+    "serial": "1TC950MDERR130676",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV865M",
-    "Stock No": "355289",
-    "Product Id No": "1M0865MAVRM070143",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV865M",
+    "stock": "355289",
+    "serial": "1M0865MAVRM070143",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "461M",
-    "Stock No": "355502",
-    "Product Id No": "1E0461MSKRR503655",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "461M",
+    "stock": "355502",
+    "serial": "1E0461MSKRR503655",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "461M",
-    "Stock No": "355503",
-    "Product Id No": "1E0461MSVRR503806",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "461M",
+    "stock": "355503",
+    "serial": "1E0461MSVRR503806",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "317G",
-    "Stock No": "355965",
-    "Product Id No": "1P0317GJLRJ438947",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "317G",
+    "stock": "355965",
+    "serial": "1P0317GJLRJ438947",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW16",
-    "Stock No": "356252",
-    "Product Id No": "12046",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW16",
+    "stock": "356252",
+    "serial": "12046",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM4072E",
-    "Stock No": "356256",
-    "Product Id No": "1XFGM40EPP0001177",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM4072E",
+    "stock": "356256",
+    "serial": "1XFGM40EPP0001177",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "CP72",
-    "Stock No": "356588",
-    "Product Id No": "160463",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "CP72",
+    "stock": "356588",
+    "serial": "160463",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUHN",
-    "Model": "SR108",
-    "Stock No": "356870",
-    "Product Id No": "KNAA1020P40E01404",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUHN",
+    "model": "SR108",
+    "stock": "356870",
+    "serial": "KNAA1020P40E01404",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUHN",
-    "Model": "SR108",
-    "Stock No": "356871",
-    "Product Id No": "KNAA1020K40E01405",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUHN",
+    "model": "SR108",
+    "stock": "356871",
+    "serial": "KNAA1020K40E01405",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11548",
-    "Stock No": "356978",
-    "Product Id No": "1000507",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11548",
+    "stock": "356978",
+    "serial": "1000507",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11548",
-    "Stock No": "356980",
-    "Product Id No": "1000265",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11548",
+    "stock": "356980",
+    "serial": "1000265",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10966",
-    "Stock No": "356984",
-    "Product Id No": "PXBU5XE008263",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10966",
+    "stock": "356984",
+    "serial": "PXBU5XE008263",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10966",
-    "Stock No": "356985",
-    "Product Id No": "PXBU5E008171",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10966",
+    "stock": "356985",
+    "serial": "PXBU5E008171",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "356998",
-    "Product Id No": "1LV1025RHPP865674",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "356998",
+    "serial": "1LV1025RHPP865674",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW15",
-    "Stock No": "357065",
-    "Product Id No": "11806",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW15",
+    "stock": "357065",
+    "serial": "11806",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW15",
-    "Stock No": "357066",
-    "Product Id No": "11805",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW15",
+    "stock": "357066",
+    "serial": "11805",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW15",
-    "Stock No": "357069",
-    "Product Id No": "11814",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW15",
+    "stock": "357069",
+    "serial": "11814",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW15",
-    "Stock No": "357070",
-    "Product Id No": "11813",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW15",
+    "stock": "357070",
+    "serial": "11813",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW14",
-    "Stock No": "357890",
-    "Product Id No": "10645",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW14",
+    "stock": "357890",
+    "serial": "10645",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW14",
-    "Stock No": "357891",
-    "Product Id No": "10644",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW14",
+    "stock": "357891",
+    "serial": "10644",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW14",
-    "Stock No": "357942",
-    "Product Id No": "10647",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW14",
+    "stock": "357942",
+    "serial": "10647",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "TW14",
-    "Stock No": "357943",
-    "Product Id No": "10646",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "RHINO",
+    "model": "TW14",
+    "stock": "357943",
+    "serial": "10646",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KR",
-    "Model": "EC R 320",
-    "Stock No": "357978",
-    "Product Id No": "1133737",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KR",
+    "model": "EC R 320",
+    "stock": "357978",
+    "serial": "1133737",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6145M",
-    "Stock No": "358229",
-    "Product Id No": "1L06145MJPG209587",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6145M",
+    "stock": "358229",
+    "serial": "1L06145MJPG209587",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "ND-60T",
-    "Stock No": "358474",
-    "Product Id No": "1030 ND60",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "ND-60T",
+    "stock": "358474",
+    "serial": "1030 ND60",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X330",
-    "Stock No": "358556",
-    "Product Id No": "1M0X330APPM170037",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X330",
+    "stock": "358556",
+    "serial": "1M0X330APPM170037",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP10F",
-    "Stock No": "358778",
-    "Product Id No": "1XFAP10FJP0027334",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP10F",
+    "stock": "358778",
+    "serial": "1XFAP10FJP0027334",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP10F",
-    "Stock No": "358780",
-    "Product Id No": "1XFAP10FPP0027332",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP10F",
+    "stock": "358780",
+    "serial": "1XFAP10FPP0027332",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP10F",
-    "Stock No": "358781",
-    "Product Id No": "1XFAP10FTP0027331",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP10F",
+    "stock": "358781",
+    "serial": "1XFAP10FTP0027331",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5060E",
-    "Stock No": "359075",
-    "Product Id No": "1PY5060EARR900536",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5060E",
+    "stock": "359075",
+    "serial": "1PY5060EARR900536",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "359103",
-    "Product Id No": "1PY5075EARR800631",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "359103",
+    "serial": "1PY5075EARR800631",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5100E",
-    "Stock No": "359114",
-    "Product Id No": "1P05100ECR5080565",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5100E",
+    "stock": "359114",
+    "serial": "1P05100ECR5080565",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5090E",
-    "Stock No": "359121",
-    "Product Id No": "1P05090ECR5080766",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5090E",
+    "stock": "359121",
+    "serial": "1P05090ECR5080766",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "WACKER NEUSON",
-    "Model": "SM100",
-    "Stock No": "359218",
-    "Product Id No": "WNMU0101AM0002669",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "WACKER NEUSON",
+    "model": "SM100",
+    "stock": "359218",
+    "serial": "WNMU0101AM0002669",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "325G",
-    "Stock No": "359343",
-    "Product Id No": "1T0325GMPRJ470241",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "325G",
+    "stock": "359343",
+    "serial": "1T0325GMPRJ470241",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10828",
-    "Stock No": "359349",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10828",
+    "stock": "359349",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "DURA",
-    "Model": "77C",
-    "Stock No": "359356",
-    "Product Id No": "77230223C",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "DURA",
+    "model": "77C",
+    "stock": "359356",
+    "serial": "77230223C",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "30 P",
-    "Stock No": "359371",
-    "Product Id No": "1FF030PAJRK000697",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "30 P",
+    "stock": "359371",
+    "serial": "1FF030PAJRK000697",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "50 P",
-    "Stock No": "359374",
-    "Product Id No": "1FF050PAARH003563",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "50 P",
+    "stock": "359374",
+    "serial": "1FF050PAARH003563",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "26 P",
-    "Stock No": "359380",
-    "Product Id No": "1FF026PALRK001361",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "26 P",
+    "stock": "359380",
+    "serial": "1FF026PALRK001361",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "MB2036D",
-    "Stock No": "359611",
-    "Product Id No": "00442192",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "MB2036D",
+    "stock": "359611",
+    "serial": "00442192",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "DPFRAME",
-    "Stock No": "359613",
-    "Product Id No": "00441523",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "DPFRAME",
+    "stock": "359613",
+    "serial": "00441523",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "DPFRAME",
-    "Stock No": "359614",
-    "Product Id No": "00441525",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "DPFRAME",
+    "stock": "359614",
+    "serial": "00441525",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "DRG 44",
-    "Stock No": "359615",
-    "Product Id No": "00437948",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "DRG 44",
+    "stock": "359615",
+    "serial": "00437948",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3062",
-    "Stock No": "359879",
-    "Product Id No": "1XFRT30XCN0240074",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3062",
+    "stock": "359879",
+    "serial": "1XFRT30XCN0240074",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV825M S4",
-    "Stock No": "360006",
-    "Product Id No": "1M0825MBCRM071277",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV825M S4",
+    "stock": "360006",
+    "serial": "1M0825MBCRM071277",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV855M S4",
-    "Stock No": "360023",
-    "Product Id No": "1M0855MBCRM070511",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV855M S4",
+    "stock": "360023",
+    "serial": "1M0855MBCRM070511",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV835M",
-    "Stock No": "360030",
-    "Product Id No": "1M0835MACRM072961",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV835M",
+    "stock": "360030",
+    "serial": "1M0835MACRM072961",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV835M",
-    "Stock No": "360031",
-    "Product Id No": "1M0835MAHRM072486",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV835M",
+    "stock": "360031",
+    "serial": "1M0835MAHRM072486",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "461M",
-    "Stock No": "360059",
-    "Product Id No": "1E0461MSTRR504043",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "461M",
+    "stock": "360059",
+    "serial": "1E0461MSTRR504043",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "50 P",
-    "Stock No": "360073",
-    "Product Id No": "1FF050PAARH003417",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "50 P",
+    "stock": "360073",
+    "serial": "1FF050PAARH003417",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "EG2SS",
-    "Stock No": "360088",
-    "Product Id No": "17367",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "EG2SS",
+    "stock": "360088",
+    "serial": "17367",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC12E",
-    "Stock No": "360127",
-    "Product Id No": "1P0FC2ECCRD004021",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC12E",
+    "stock": "360127",
+    "serial": "1P0FC2ECCRD004021",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC12E",
-    "Stock No": "360128",
-    "Product Id No": "1P0FC2ECVRD004019",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC12E",
+    "stock": "360128",
+    "serial": "1P0FC2ECVRD004019",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "333 P",
-    "Stock No": "360182",
-    "Product Id No": "1T0333PAJRFE04935",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "333 P",
+    "stock": "360182",
+    "serial": "1T0333PAJRFE04935",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "360418",
-    "Product Id No": "1LV1025RPRR891172",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "360418",
+    "serial": "1LV1025RPRR891172",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1023E",
-    "Stock No": "360439",
-    "Product Id No": "1LV1023ECRR164022",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1023E",
+    "stock": "360439",
+    "serial": "1LV1023ECRR164022",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1023E",
-    "Stock No": "360440",
-    "Product Id No": "1LV1023EHRR164365",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1023E",
+    "stock": "360440",
+    "serial": "1LV1023EHRR164365",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3025E",
-    "Stock No": "360456",
-    "Product Id No": "1LV3025EERR168276",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "360456",
+    "serial": "1LV3025EERR168276",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3025E",
-    "Stock No": "360457",
-    "Product Id No": "1LV3025EARR168757",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "360457",
+    "serial": "1LV3025EARR168757",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3032E",
-    "Stock No": "360476",
-    "Product Id No": "1LV3032ELRR152084",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "3032E",
+    "stock": "360476",
+    "serial": "1LV3032ELRR152084",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3062",
-    "Stock No": "360555",
-    "Product Id No": "1XFRT30XLN0232321",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3062",
+    "stock": "360555",
+    "serial": "1XFRT30XLN0232321",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM4072E",
-    "Stock No": "360629",
-    "Product Id No": "1XFGM40ECR0001700",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM4072E",
+    "stock": "360629",
+    "serial": "1XFGM40ECR0001700",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "G5 ACTIVATIONS",
-    "Stock No": "360684",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "G5 ACTIVATIONS",
+    "stock": "360684",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "500M",
-    "Stock No": "360700",
-    "Product Id No": "1P0500MXCRC002322",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "500M",
+    "stock": "360700",
+    "serial": "1P0500MXCRC002322",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "500M",
-    "Stock No": "360701",
-    "Product Id No": "1P0500MXKRC002317",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "500M",
+    "stock": "360701",
+    "serial": "1P0500MXKRC002317",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3081",
-    "Stock No": "360764",
-    "Product Id No": "1XFRT30XAN0235136",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3081",
+    "stock": "360764",
+    "serial": "1XFRT30XAN0235136",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR2060L",
-    "Stock No": "360805",
-    "Product Id No": "1XFLR20LAP0006129",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR2060L",
+    "stock": "360805",
+    "serial": "1XFLR20LAP0006129",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR5072",
-    "Stock No": "360809",
-    "Product Id No": "1XFLR50XAR0012049",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR5072",
+    "stock": "360809",
+    "serial": "1XFLR50XAR0012049",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR5072",
-    "Stock No": "360810",
-    "Product Id No": "1XFLR50XCR0012050",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR5072",
+    "stock": "360810",
+    "serial": "1XFLR50XCR0012050",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR5084",
-    "Stock No": "360840",
-    "Product Id No": "1XFLR50XHR0012183",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR5084",
+    "stock": "360840",
+    "serial": "1XFLR50XHR0012183",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR5084",
-    "Stock No": "360841",
-    "Product Id No": "1XFLR50XLR0012182",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR5084",
+    "stock": "360841",
+    "serial": "1XFLR50XLR0012182",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR2072",
-    "Stock No": "360844",
-    "Product Id No": "1XFLR20XJP0007408",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR2072",
+    "stock": "360844",
+    "serial": "1XFLR20XJP0007408",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR2072",
-    "Stock No": "360845",
-    "Product Id No": "1XFLR20XKP0007407",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LR2072",
+    "stock": "360845",
+    "serial": "1XFLR20XKP0007407",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3073",
-    "Stock No": "360888",
-    "Product Id No": "1XFRT30XVN0240285",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3073",
+    "stock": "360888",
+    "serial": "1XFRT30XVN0240285",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12F",
-    "Stock No": "361296",
-    "Product Id No": "1XFAP12FCR0086417",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP12F",
+    "stock": "361296",
+    "serial": "1XFAP12FCR0086417",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "BYJ-2FA",
-    "Stock No": "361378",
-    "Product Id No": "24-369531",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "BYJ-2FA",
+    "stock": "361378",
+    "serial": "24-369531",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6135E",
-    "Stock No": "361513",
-    "Product Id No": "1P06135EPR6013704",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6135E",
+    "stock": "361513",
+    "serial": "1P06135EPR6013704",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3073",
-    "Stock No": "361617",
-    "Product Id No": "1XFRT30XJP0243879",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3073",
+    "stock": "361617",
+    "serial": "1XFRT30XJP0243879",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20F",
-    "Stock No": "361688",
-    "Product Id No": "1XFAV20FAR0012416",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20F",
+    "stock": "361688",
+    "serial": "1XFAV20FAR0012416",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC8M",
-    "Stock No": "361746",
-    "Product Id No": "1P0RC8MEKRP000663",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC8M",
+    "stock": "361746",
+    "serial": "1P0RC8MEKRP000663",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "361995",
-    "Product Id No": "1M0X350AERM174650",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "361995",
+    "serial": "1M0X350AERM174650",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "361996",
-    "Product Id No": "1M0X350ACRM174651",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "361996",
+    "serial": "1M0X350ACRM174651",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X330",
-    "Stock No": "362003",
-    "Product Id No": "1M0X330ACRM171244",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X330",
+    "stock": "362003",
+    "serial": "1M0X330ACRM171244",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "GM4072E",
-    "Stock No": "362046",
-    "Product Id No": "1XFGM40ECR0001681",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "GM4072E",
+    "stock": "362046",
+    "serial": "1XFGM40ECR0001681",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X380",
-    "Stock No": "362352",
-    "Product Id No": "1M0X380AKRM171481",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X380",
+    "stock": "362352",
+    "serial": "1M0X380AKRM171481",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "S220",
-    "Stock No": "362380",
-    "Product Id No": "1GXS220ACRR073084",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "S220",
+    "stock": "362380",
+    "serial": "1GXS220ACRR073084",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X380",
-    "Stock No": "362409",
-    "Product Id No": "1M0X380AERM171491",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X380",
+    "stock": "362409",
+    "serial": "1M0X380AERM171491",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10260",
-    "Stock No": "362431",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10260",
+    "stock": "362431",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUBOT",
-    "Model": "M7060",
-    "Stock No": "362432",
-    "Product Id No": "KBUMFCDCPN8H95426",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUBOT",
+    "model": "M7060",
+    "stock": "362432",
+    "serial": "KBUMFCDCPN8H95426",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "362655",
-    "Product Id No": "1M0X350BTRM173445",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "362655",
+    "serial": "1M0X350BTRM173445",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z320M",
-    "Stock No": "362672",
-    "Product Id No": "1GX320MAERR058800",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z320M",
+    "stock": "362672",
+    "serial": "1GX320MAERR058800",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20H",
-    "Stock No": "362716",
-    "Product Id No": "1XFAV20HKR0007549",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20H",
+    "stock": "362716",
+    "serial": "1XFAV20HKR0007549",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20H",
-    "Stock No": "362717",
-    "Product Id No": "1XFAV20HKR0007535",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20H",
+    "stock": "362717",
+    "serial": "1XFAV20HKR0007535",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUBOT",
-    "Model": "M6-131",
-    "Stock No": "362832",
-    "Product Id No": "10646",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUBOT",
+    "model": "M6-131",
+    "stock": "362832",
+    "serial": "10646",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4044M",
-    "Stock No": "362838",
-    "Product Id No": "1LV4044MVRR124135",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "4044M",
+    "stock": "362838",
+    "serial": "1LV4044MVRR124135",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M S4",
-    "Stock No": "362866",
-    "Product Id No": "1M0590MBHRM070587",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV590M S4",
+    "stock": "362866",
+    "serial": "1M0590MBHRM070587",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M S4",
-    "Stock No": "362867",
-    "Product Id No": "1M0590MBLRM070569",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV590M S4",
+    "stock": "362867",
+    "serial": "1M0590MBLRM070569",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M S4",
-    "Stock No": "362874",
-    "Product Id No": "1M0590MBPRM070577",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV590M S4",
+    "stock": "362874",
+    "serial": "1M0590MBPRM070577",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M S4",
-    "Stock No": "362876",
-    "Product Id No": "1M0590MBJRM070579",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV590M S4",
+    "stock": "362876",
+    "serial": "1M0590MBJRM070579",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z320R",
-    "Stock No": "362965",
-    "Product Id No": "1GX320RAPRR054503",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z320R",
+    "stock": "362965",
+    "serial": "1GX320RAPRR054503",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "362985",
-    "Product Id No": "1TC930MVCRR130426",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "362985",
+    "serial": "1TC930MVCRR130426",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LP2172",
-    "Stock No": "363063",
-    "Product Id No": "1XFLP21XVR0004745",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LP2172",
+    "stock": "363063",
+    "serial": "1XFLP21XVR0004745",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "363266",
-    "Product Id No": "1M0X350APRM176936",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "363266",
+    "serial": "1M0X350APRM176936",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "363651",
-    "Product Id No": "1TC930MVHRR130416",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "363651",
+    "serial": "1TC930MVHRR130416",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1023E",
-    "Stock No": "363688",
-    "Product Id No": "1LV1023ELRR164347",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1023E",
+    "stock": "363688",
+    "serial": "1LV1023ELRR164347",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "363773",
-    "Product Id No": "1PY5075EPRR902567",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "363773",
+    "serial": "1PY5075EPRR902567",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075M",
-    "Stock No": "363804",
-    "Product Id No": "1LV5075MJCJ443834",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075M",
+    "stock": "363804",
+    "serial": "1LV5075MJCJ443834",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "363916",
-    "Product Id No": "1TC930MCCRS140020",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "363916",
+    "serial": "1TC930MCCRS140020",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "363918",
-    "Product Id No": "1TC930MCKRS140023",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "363918",
+    "serial": "1TC930MCKRS140023",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z950M",
-    "Stock No": "363942",
-    "Product Id No": "1TC950MCPRS140046",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z950M",
+    "stock": "363942",
+    "serial": "1TC950MCPRS140046",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z960M",
-    "Stock No": "363967",
-    "Product Id No": "1TC960MCTRS140043",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z960M",
+    "stock": "363967",
+    "serial": "1TC960MCTRS140043",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z960M",
-    "Stock No": "363970",
-    "Product Id No": "1TC960MGCRS140030",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z960M",
+    "stock": "363970",
+    "serial": "1TC960MGCRS140030",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z970R",
-    "Stock No": "363978",
-    "Product Id No": "1TC970RDHRS140022",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z970R",
+    "stock": "363978",
+    "serial": "1TC970RDHRS140022",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z970R",
-    "Stock No": "363979",
-    "Product Id No": "1TC970RDCRS140029",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z970R",
+    "stock": "363979",
+    "serial": "1TC970RDCRS140029",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "S130",
-    "Stock No": "364127",
-    "Product Id No": "1GXS130EJRR316720",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "S130",
+    "stock": "364127",
+    "serial": "1GXS130EJRR316720",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "110BL",
-    "Stock No": "364157",
-    "Product Id No": "24-369698",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "110BL",
+    "stock": "364157",
+    "serial": "24-369698",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "2004RW",
-    "Stock No": "364160",
-    "Product Id No": "24-369830",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "2004RW",
+    "stock": "364160",
+    "serial": "24-369830",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "55X",
-    "Stock No": "364161",
-    "Product Id No": "23-368742",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "55X",
+    "stock": "364161",
+    "serial": "23-368742",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RT3062",
-    "Stock No": "364189",
-    "Product Id No": "1XFRT30XVP0243982",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RT3062",
+    "stock": "364189",
+    "serial": "1XFRT30XVP0243982",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "540M",
-    "Stock No": "364311",
-    "Product Id No": "1P0540MXCPD066901",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "540M",
+    "stock": "364311",
+    "serial": "1P0540MXCPD066901",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV825I",
-    "Stock No": "364364",
-    "Product Id No": "1M0825GSCAM011704",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV825I",
+    "stock": "364364",
+    "serial": "1M0825GSCAM011704",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z320R",
-    "Stock No": "364382",
-    "Product Id No": "1GX320RALRR054896",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z320R",
+    "stock": "364382",
+    "serial": "1GX320RALRR054896",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "60G",
-    "Stock No": "364391",
-    "Product Id No": "1FF060GXKLJ292405",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "60G",
+    "stock": "364391",
+    "serial": "1FF060GXKLJ292405",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z320R",
-    "Stock No": "364485",
-    "Product Id No": "1GX320RAPRR055201",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z320R",
+    "stock": "364485",
+    "serial": "1GX320RAPRR055201",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "KUBOT",
-    "Model": "MX5400",
-    "Stock No": "364516",
-    "Product Id No": "KBUL3BHRAM8C19435",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "KUBOT",
+    "model": "MX5400",
+    "stock": "364516",
+    "serial": "KBUL3BHRAM8C19435",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z530M",
-    "Stock No": "364535",
-    "Product Id No": "1GX530MFARR055747",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z530M",
+    "stock": "364535",
+    "serial": "1GX530MFARR055747",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "364538",
-    "Product Id No": "1M0X350BLRM174640",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "364538",
+    "serial": "1M0X350BLRM174640",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z330R",
-    "Stock No": "364586",
-    "Product Id No": "1GX330RHTRR052551",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z330R",
+    "stock": "364586",
+    "serial": "1GX330RHTRR052551",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "BYJ-4FA",
-    "Stock No": "364674",
-    "Product Id No": "24-400004",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "BYJ-4FA",
+    "stock": "364674",
+    "serial": "24-400004",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z330R",
-    "Stock No": "364748",
-    "Product Id No": "1GX330RHKRR052780",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z330R",
+    "stock": "364748",
+    "serial": "1GX330RHKRR052780",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AB12G",
-    "Stock No": "364774",
-    "Product Id No": "1XFAB12GTR0028552",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AB12G",
+    "stock": "364774",
+    "serial": "1XFAB12GTR0028552",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "364786",
-    "Product Id No": "1M0X350ACRM178618",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "364786",
+    "serial": "1M0X350ACRM178618",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z950R",
-    "Stock No": "364857",
-    "Product Id No": "1TC950RGLMT090207",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z950R",
+    "stock": "364857",
+    "serial": "1TC950RGLMT090207",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X570",
-    "Stock No": "364872",
-    "Product Id No": "1M0X570BHPM180944",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X570",
+    "stock": "364872",
+    "serial": "1M0X570BHPM180944",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "X350",
-    "Stock No": "364908",
-    "Product Id No": "1M0X350BARM174748",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "X350",
+    "stock": "364908",
+    "serial": "1M0X350BARM174748",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z330M",
-    "Stock No": "364936",
-    "Product Id No": "1GX330MECRR056224",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z330M",
+    "stock": "364936",
+    "serial": "1GX330MECRR056224",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AB13G",
-    "Stock No": "364973",
-    "Product Id No": "1XFAB13GLR0024199",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AB13G",
+    "stock": "364973",
+    "serial": "1XFAB13GLR0024199",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AB13G",
-    "Stock No": "364974",
-    "Product Id No": "1XFAB13GAR0024198",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AB13G",
+    "stock": "364974",
+    "serial": "1XFAB13GAR0024198",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2048",
-    "Stock No": "365019",
-    "Product Id No": "1XFRC20XER0240681",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2048",
+    "stock": "365019",
+    "serial": "1XFRC20XER0240681",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "TM1395",
-    "Stock No": "365022",
-    "Product Id No": "1XFTM13XCR0240052",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "TM1395",
+    "stock": "365022",
+    "serial": "1XFTM13XCR0240052",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AV20F",
-    "Stock No": "365024",
-    "Product Id No": "1XFAV20FTR0013086",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AV20F",
+    "stock": "365024",
+    "serial": "1XFAV20FTR0013086",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6SS-60",
-    "Stock No": "365064",
-    "Product Id No": "24-400103",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6SS-60",
+    "stock": "365064",
+    "serial": "24-400103",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6SS-60",
-    "Stock No": "365065",
-    "Product Id No": "24-400104",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6SS-60",
+    "stock": "365065",
+    "serial": "24-400104",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6SS-72",
-    "Stock No": "365066",
-    "Product Id No": "24-400105",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6SS-72",
+    "stock": "365066",
+    "serial": "24-400105",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6SS-72",
-    "Stock No": "365067",
-    "Product Id No": "24-400106",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6SS-72",
+    "stock": "365067",
+    "serial": "24-400106",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6SS-84",
-    "Stock No": "365070",
-    "Product Id No": "24-400108",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6SS-84",
+    "stock": "365070",
+    "serial": "24-400108",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6GB-72",
-    "Stock No": "365071",
-    "Product Id No": "24-400109",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6GB-72",
+    "stock": "365071",
+    "serial": "24-400109",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G6GB-72",
-    "Stock No": "365072",
-    "Product Id No": "24-400110",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "G6GB-72",
+    "stock": "365072",
+    "serial": "24-400110",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "IJS340",
-    "Stock No": "365073",
-    "Product Id No": "23-001080",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "IJS340",
+    "stock": "365073",
+    "serial": "23-001080",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "IJS340",
-    "Stock No": "365074",
-    "Product Id No": "23-001083",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "IJS340",
+    "stock": "365074",
+    "serial": "23-001083",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11548",
-    "Stock No": "365121",
-    "Product Id No": "1001484",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11548",
+    "stock": "365121",
+    "serial": "1001484",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11748",
-    "Stock No": "365123",
-    "Product Id No": "1000128",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11748",
+    "stock": "365123",
+    "serial": "1000128",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10980",
-    "Stock No": "365124",
-    "Product Id No": "PXBU7KG003121",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10980",
+    "stock": "365124",
+    "serial": "PXBU7KG003121",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "365245",
-    "Product Id No": "1PY5075ETLK411835",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "365245",
+    "serial": "1PY5075ETLK411835",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AB13G",
-    "Stock No": "365616",
-    "Product Id No": "1XFAB13GLR0024364",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AB13G",
+    "stock": "365616",
+    "serial": "1XFAB13GLR0024364",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "IPS-340",
-    "Stock No": "366048",
-    "Product Id No": "24-000227",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "LMC",
+    "model": "IPS-340",
+    "stock": "366048",
+    "serial": "24-000227",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2048",
-    "Stock No": "366152",
-    "Product Id No": "1XFRC20XAR0240658",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "RC2048",
+    "stock": "366152",
+    "serial": "1XFRC20XAR0240658",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11919",
-    "Stock No": "366160",
-    "Product Id No": "1000256",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11919",
+    "stock": "366160",
+    "serial": "1000256",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10962",
-    "Stock No": "366161",
-    "Product Id No": "PXBU3XB010287",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10962",
+    "stock": "366161",
+    "serial": "PXBU3XB010287",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT11748",
-    "Stock No": "366162",
-    "Product Id No": "1000076",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT11748",
+    "stock": "366162",
+    "serial": "1000076",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10984",
-    "Stock No": "366163",
-    "Product Id No": "PXBU7KK000885",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10984",
+    "stock": "366163",
+    "serial": "PXBU7KK000885",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12G",
-    "Stock No": "366268",
-    "Product Id No": "1XFAP12GKR0036543",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "AP12G",
+    "stock": "366268",
+    "serial": "1XFAP12GKR0036543",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "XBC273578MT",
-    "Stock No": "366382",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "XBC273578MT",
+    "stock": "366382",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT48",
-    "Stock No": "366383",
-    "Product Id No": "00442732",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT48",
+    "stock": "366383",
+    "serial": "00442732",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT48",
-    "Stock No": "366384",
-    "Product Id No": "00442927",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT48",
+    "stock": "366384",
+    "serial": "00442927",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT48",
-    "Stock No": "366385",
-    "Product Id No": "00442929",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT48",
+    "stock": "366385",
+    "serial": "00442929",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT48",
-    "Stock No": "366386",
-    "Product Id No": "00442938",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT48",
+    "stock": "366386",
+    "serial": "00442938",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT60",
-    "Stock No": "366387",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT60",
+    "stock": "366387",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "WT60",
-    "Stock No": "366388",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "WT60",
+    "stock": "366388",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "DHBHS",
-    "Stock No": "366389",
-    "Product Id No": "00465105",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "DHBHS",
+    "stock": "366389",
+    "serial": "00465105",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "XTRENCH48-LF",
-    "Stock No": "366390",
-    "Product Id No": "00469994",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "XTRENCH48-LF",
+    "stock": "366390",
+    "serial": "00469994",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "SDFRAME HD400048",
-    "Stock No": "366393",
-    "Product Id No": "00471629",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "SDFRAME HD400048",
+    "stock": "366393",
+    "serial": "00471629",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "SDFF",
-    "Stock No": "366394",
-    "Product Id No": "00471630",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "MISC",
+    "model": "SDFF",
+    "stock": "366394",
+    "serial": "00471630",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "366397",
-    "Product Id No": "1PY5075EEJJ106397",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "366397",
+    "serial": "1PY5075EEJJ106397",
+    "condition": "Used",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "TM1164",
-    "Stock No": "366501",
-    "Product Id No": "1XFTM11XKR0001732",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Not Sold)"
+    "make": "FRONTIER",
+    "model": "TM1164",
+    "stock": "366501",
+    "serial": "1XFTM11XKR0001732",
+    "condition": "New",
+    "status": "In Stock (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "540M",
-    "Stock No": "305637",
-    "Product Id No": "1P0540MXVLD056078",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "540M",
+    "stock": "305637",
+    "serial": "1P0540MXVLD056078",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "RC2048",
-    "Stock No": "320803",
-    "Product Id No": "1XFRC20XLN0210961",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "FRONTIER",
+    "model": "RC2048",
+    "stock": "320803",
+    "serial": "1XFRC20XLN0210961",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3038E",
-    "Stock No": "323929",
-    "Product Id No": "1LV3038EHNP141925",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "3038E",
+    "stock": "323929",
+    "serial": "1LV3038EHNP141925",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "AP12G",
-    "Stock No": "328640",
-    "Product Id No": "1XFAP12GVM0027208",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "FRONTIER",
+    "model": "AP12G",
+    "stock": "328640",
+    "serial": "1XFAP12GVM0027208",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC6M",
-    "Stock No": "340427",
-    "Product Id No": "1P0RC6MCHNP000412",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC6M",
+    "stock": "340427",
+    "serial": "1P0RC6MCHNP000412",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G60-GAWT",
-    "Stock No": "341341",
-    "Product Id No": "22-367814",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "LMC",
+    "model": "G60-GAWT",
+    "stock": "341341",
+    "serial": "22-367814",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "110BL",
-    "Stock No": "355582",
-    "Product Id No": "23-368991",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "LMC",
+    "model": "110BL",
+    "stock": "355582",
+    "serial": "23-368991",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "4035-H",
-    "Stock No": "355895",
-    "Product Id No": "BB4035HIL03230021",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "MISC",
+    "model": "4035-H",
+    "stock": "355895",
+    "serial": "BB4035HIL03230021",
+    "condition": "Used",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "451M",
-    "Stock No": "356104",
-    "Product Id No": "1E0451MSHRR501111",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "451M",
+    "stock": "356104",
+    "serial": "1E0451MSHRR501111",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "7220",
-    "Stock No": "357442",
-    "Product Id No": "RW7220R010265",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "7220",
+    "stock": "357442",
+    "serial": "RW7220R010265",
+    "condition": "Used",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4052M",
-    "Stock No": "357619",
-    "Product Id No": "1LV4052MTRR111483",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "4052M",
+    "stock": "357619",
+    "serial": "1LV4052MTRR111483",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "360417",
-    "Product Id No": "1LV1025RTRR888626",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "360417",
+    "serial": "1LV1025RTRR888626",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3039R",
-    "Stock No": "360507",
-    "Product Id No": "1LV3039RLRR409298",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "3039R",
+    "stock": "360507",
+    "serial": "1LV3039RLRR409298",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LR2060L",
-    "Stock No": "360806",
-    "Product Id No": "1XFLR20LCP0006130",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "FRONTIER",
+    "model": "LR2060L",
+    "stock": "360806",
+    "serial": "1XFLR20LCP0006130",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV835M",
-    "Stock No": "362413",
-    "Product Id No": "1M0835MACRM073180",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "XUV835M",
+    "stock": "362413",
+    "serial": "1M0835MACRM073180",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4052M",
-    "Stock No": "362551",
-    "Product Id No": "1LV4052MKLK105430",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "4052M",
+    "stock": "362551",
+    "serial": "1LV4052MKLK105430",
+    "condition": "Used",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z970R",
-    "Stock No": "362764",
-    "Product Id No": "1TC970RCERR130137",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z970R",
+    "stock": "362764",
+    "serial": "1TC970RCERR130137",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "362817",
-    "Product Id No": "1L06130MARH433705",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "362817",
+    "serial": "1L06130MARH433705",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "362818",
-    "Product Id No": "1L06130MERH433823",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "362818",
+    "serial": "1L06130MERH433823",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "362819",
-    "Product Id No": "1L06130MARH433820",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "362819",
+    "serial": "1L06130MARH433820",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "362820",
-    "Product Id No": "1L06130MERH433708",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "362820",
+    "serial": "1L06130MERH433708",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X14",
-    "Stock No": "362915",
-    "Product Id No": "4PCU11411R1000022",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "MISC",
+    "model": "7X14",
+    "stock": "362915",
+    "serial": "4PCU11411R1000022",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z530R",
-    "Stock No": "364743",
-    "Product Id No": "1GX530RFCRR054412",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z530R",
+    "stock": "364743",
+    "serial": "1GX530RFCRR054412",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "KUBOT",
-    "Model": "M9000",
-    "Stock No": "365068",
-    "Product Id No": "062984",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "KUBOT",
+    "model": "M9000",
+    "stock": "365068",
+    "serial": "062984",
+    "condition": "Used",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BYT10966",
-    "Stock No": "365122",
-    "Product Id No": "PXBU5E008106",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "BYT10966",
+    "stock": "365122",
+    "serial": "PXBU5E008106",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "NTGD-78",
-    "Stock No": "365199",
-    "Product Id No": "24-400086",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "LMC",
+    "model": "NTGD-78",
+    "stock": "365199",
+    "serial": "24-400086",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "ND82-001",
-    "Stock No": "366134",
-    "Product Id No": "1058 ND72",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "MISC",
+    "model": "ND82-001",
+    "stock": "366134",
+    "serial": "1058 ND72",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "FDH-203",
-    "Stock No": "366396",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "MISC",
+    "model": "FDH-203",
+    "stock": "366396",
+    "serial": "",
+    "condition": "New",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5065E",
-    "Stock No": "366543",
-    "Product Id No": "1PY5065EJFY145636",
-    "New/Used": "Used",
-    "Inventory Status": "In Stock (Sold)"
+    "make": "JOHN DEERE",
+    "model": "5065E",
+    "stock": "366543",
+    "serial": "1PY5065EJFY145636",
+    "condition": "Used",
+    "status": "In Stock (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z915B",
-    "Stock No": "336640",
-    "Product Id No": "1TC915BACFT030689",
-    "New/Used": "Used",
-    "Inventory Status": "On Hold"
+    "make": "JOHN DEERE",
+    "model": "Z915B",
+    "stock": "336640",
+    "serial": "1TC915BACFT030689",
+    "condition": "Used",
+    "status": "On Hold"
   },
   {
-    "Make": "KUHN",
-    "Model": "GA7501",
-    "Stock No": "344579",
-    "Product Id No": "KSAA1015P70F02158",
-    "New/Used": "New",
-    "Inventory Status": "On Hold"
+    "make": "KUHN",
+    "model": "GA7501",
+    "stock": "344579",
+    "serial": "KSAA1015P70F02158",
+    "condition": "New",
+    "status": "On Hold"
   },
   {
-    "Make": "KUHN",
-    "Model": "RW1410C",
-    "Stock No": "346085",
-    "Product Id No": "KNLA1003J70D00262",
-    "New/Used": "New",
-    "Inventory Status": "On Hold"
+    "make": "KUHN",
+    "model": "RW1410C",
+    "stock": "346085",
+    "serial": "KNLA1003J70D00262",
+    "condition": "New",
+    "status": "On Hold"
   },
   {
-    "Make": "KUHN",
-    "Model": "SR312",
-    "Stock No": "356874",
-    "Product Id No": "KNAA1036L50E00167",
-    "New/Used": "New",
-    "Inventory Status": "On Hold"
+    "make": "KUHN",
+    "model": "SR312",
+    "stock": "356874",
+    "serial": "KNAA1036L50E00167",
+    "condition": "New",
+    "status": "On Hold"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5090E",
-    "Stock No": "356856",
-    "Product Id No": "1P05090EVP5075122",
-    "New/Used": "Used",
-    "Inventory Status": "On Loan"
+    "make": "JOHN DEERE",
+    "model": "5090E",
+    "stock": "356856",
+    "serial": "1P05090EVP5075122",
+    "condition": "Used",
+    "status": "On Loan"
   },
   {
-    "Make": "LMC",
-    "Model": "EGHBS-1",
-    "Stock No": "304339",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "EGHBS-1",
+    "stock": "304339",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "EGHBS-1",
-    "Stock No": "304340",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "EGHBS-1",
+    "stock": "304340",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X22",
-    "Stock No": "313218",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "7X22",
+    "stock": "313218",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "24FT",
-    "Stock No": "313219",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "24FT",
+    "stock": "313219",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "314742",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "314742",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "RHINO",
-    "Model": "X4",
-    "Stock No": "314749",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "RHINO",
+    "model": "X4",
+    "stock": "314749",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "G60-500A",
-    "Stock No": "325218",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "G60-500A",
+    "stock": "325218",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LP1210",
-    "Stock No": "325829",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LP1210",
+    "stock": "325829",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "FRONTIER",
-    "Model": "LP1210",
-    "Stock No": "325830",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "FRONTIER",
+    "model": "LP1210",
+    "stock": "325830",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "330231",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "330231",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "330232",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "330232",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "R084",
-    "Stock No": "335174",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "R084",
+    "stock": "335174",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "BROWN",
-    "Model": "OSL-900-2422",
-    "Stock No": "343057",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "BROWN",
+    "model": "OSL-900-2422",
+    "stock": "343057",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "FR 12W",
-    "Stock No": "346393",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "FR 12W",
+    "stock": "346393",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "335 P",
-    "Stock No": "361398",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "335 P",
+    "stock": "361398",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "333 P",
-    "Stock No": "361410",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "333 P",
+    "stock": "361410",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5090E",
-    "Stock No": "362605",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5090E",
+    "stock": "362605",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5095M",
-    "Stock No": "362815",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5095M",
+    "stock": "362815",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "333 P",
-    "Stock No": "363187",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "333 P",
+    "stock": "363187",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "333 P",
-    "Stock No": "363214",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "333 P",
+    "stock": "363214",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4052M",
-    "Stock No": "363710",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "4052M",
+    "stock": "363710",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5105M",
-    "Stock No": "363716",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5105M",
+    "stock": "363716",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5120M",
-    "Stock No": "363736",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5120M",
+    "stock": "363736",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5100E",
-    "Stock No": "363853",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5100E",
+    "stock": "363853",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z960M",
-    "Stock No": "363969",
-    "Product Id No": "1TC960MGCRS140035",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z960M",
+    "stock": "363969",
+    "serial": "1TC960MGCRS140035",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "BYJ2FA",
-    "Stock No": "365075",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "BYJ2FA",
+    "stock": "365075",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "BYJ2FA",
-    "Stock No": "365076",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "BYJ2FA",
+    "stock": "365076",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "LIMB NINJA",
-    "Stock No": "365241",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "LIMB NINJA",
+    "stock": "365241",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "LIMB NINJA",
-    "Stock No": "365242",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "LIMB NINJA",
+    "stock": "365242",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "LIMB NINJA",
-    "Stock No": "365243",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "LIMB NINJA",
+    "stock": "365243",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "365343",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "365343",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "1025R",
-    "Stock No": "365344",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "1025R",
+    "stock": "365344",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "3025E",
-    "Stock No": "365363",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "3025E",
+    "stock": "365363",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4044M",
-    "Stock No": "365435",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "4044M",
+    "stock": "365435",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z960M",
-    "Stock No": "365481",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z960M",
+    "stock": "365481",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z960M",
-    "Stock No": "365486",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z960M",
+    "stock": "365486",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "4052R",
-    "Stock No": "365522",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "4052R",
+    "stock": "365522",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5105M",
-    "Stock No": "365613",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5105M",
+    "stock": "365613",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6120M",
-    "Stock No": "365631",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6120M",
+    "stock": "365631",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6120M",
-    "Stock No": "365632",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6120M",
+    "stock": "365632",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "365633",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "365633",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6130M",
-    "Stock No": "365634",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "6130M",
+    "stock": "365634",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "365700",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "365700",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "365711",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "365711",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5100E",
-    "Stock No": "365744",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5100E",
+    "stock": "365744",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "5100E",
-    "Stock No": "365745",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "5100E",
+    "stock": "365745",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "TX 4X2",
-    "Stock No": "365781",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "TX 4X2",
+    "stock": "365781",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "TX 4X2",
-    "Stock No": "365788",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "TX 4X2",
+    "stock": "365788",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z930M",
-    "Stock No": "365812",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z930M",
+    "stock": "365812",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "Z920M",
-    "Stock No": "365827",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "Z920M",
+    "stock": "365827",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC6M",
-    "Stock No": "365955",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC6M",
+    "stock": "365955",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC6M",
-    "Stock No": "365956",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC6M",
+    "stock": "365956",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC7M",
-    "Stock No": "365974",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC7M",
+    "stock": "365974",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "RC7M",
-    "Stock No": "365975",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "RC7M",
+    "stock": "365975",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "FC15M",
-    "Stock No": "366026",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "FC15M",
+    "stock": "366026",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "110BL",
-    "Stock No": "366046",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "110BL",
+    "stock": "366046",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "110BL",
-    "Stock No": "366047",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "110BL",
+    "stock": "366047",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366087",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366087",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366088",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366088",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366089",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366089",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366090",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366090",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366091",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366091",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366092",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366092",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "366093",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "366093",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "IMPL",
-    "Model": "672HD-D",
-    "Stock No": "366198",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "IMPL",
+    "model": "672HD-D",
+    "stock": "366198",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "LMC",
-    "Model": "OS-726",
-    "Stock No": "366343",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "LMC",
+    "model": "OS-726",
+    "stock": "366343",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "SDFF",
-    "Stock No": "366391",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "SDFF",
+    "stock": "366391",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "SDFF",
-    "Stock No": "366392",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "MISC",
+    "model": "SDFF",
+    "stock": "366392",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "KMC",
-    "Model": "3020",
-    "Stock No": "366395",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "KMC",
+    "model": "3020",
+    "stock": "366395",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "BXX11153",
-    "Stock No": "366495",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Not Sold)"
+    "make": "JOHN DEERE",
+    "model": "BXX11153",
+    "stock": "366495",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Not Sold)"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "303871",
-    "Product Id No": "",
-    "New/Used": "New",
-    "Inventory Status": "Pending (Sold)"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "303871",
+    "serial": "",
+    "condition": "New",
+    "status": "Pending (Sold)"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "XUV590M S4",
-    "Stock No": "351091",
-    "Product Id No": "1M0590MBHPM060980",
-    "New/Used": "New",
-    "Inventory Status": "Rental"
+    "make": "JOHN DEERE",
+    "model": "XUV590M S4",
+    "stock": "351091",
+    "serial": "1M0590MBHPM060980",
+    "condition": "New",
+    "status": "Rental"
   },
   {
-    "Make": "JOHN DEERE",
-    "Model": "6105E",
-    "Stock No": "359445",
-    "Product Id No": "1P06105EHK0011923",
-    "New/Used": "Used",
-    "Inventory Status": "Rental"
+    "make": "JOHN DEERE",
+    "model": "6105E",
+    "stock": "359445",
+    "serial": "1P06105EHK0011923",
+    "condition": "Used",
+    "status": "Rental"
   },
   {
-    "Make": "MISC",
-    "Model": "7X20",
-    "Stock No": "313207",
-    "Product Id No": "4T0FB2022M1001748",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
+    "make": "MISC",
+    "model": "7X20",
+    "stock": "313207",
+    "serial": "4T0FB2022M1001748",
+    "condition": "New",
+    "status": "Shop"
   },
   {
-    "Make": "MISC",
-    "Model": "808",
-    "Stock No": "327438",
-    "Product Id No": "",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
+    "make": "MISC",
+    "model": "808",
+    "stock": "327438",
+    "serial": "",
+    "condition": "Used",
+    "status": "Shop"
   },
   {
-    "Make": "LMC",
-    "Model": "70-1007-35G",
-    "Stock No": "341355",
-    "Product Id No": "22-367830",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "MISC",
-    "Model": "XP",
-    "Stock No": "343719",
-    "Product Id No": "3NSRTE870FG491752",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "RC7M",
-    "Stock No": "347618",
-    "Product Id No": "1P0RC7MCCPP000941",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "3032E",
-    "Stock No": "351459",
-    "Product Id No": "1LV3032ETKK130008",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "Z915E",
-    "Stock No": "355169",
-    "Product Id No": "1TC915EAPRR130064",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "Z720E",
-    "Stock No": "358909",
-    "Product Id No": "1TC720EATPR080110",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "FRONTIER",
-    "Model": "RT3073",
-    "Stock No": "360093",
-    "Product Id No": "1XFRT30XEM0221854",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "FRONTIER",
-    "Model": "RT3081",
-    "Stock No": "360765",
-    "Product Id No": "1XFRT30XCN0235151",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "520M",
-    "Stock No": "362289",
-    "Product Id No": "1P0520MXCRD110291",
-    "New/Used": "New",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "5075E",
-    "Stock No": "363803",
-    "Product Id No": "1PY5075EHHH102351",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "Z545R",
-    "Stock No": "364392",
-    "Product Id No": "1GX545RFKNN062325",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "Z950R",
-    "Stock No": "364858",
-    "Product Id No": "1TC950RGCMT090177",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
-  },
-  {
-    "Make": "JOHN DEERE",
-    "Model": "X590",
-    "Stock No": "364979",
-    "Product Id No": "1M0X590FELM160106",
-    "New/Used": "Used",
-    "Inventory Status": "Shop"
+    "make": "LMC",
+    "model": "70-1007-35G",
+    "stock": "341355",
+    "serial": "22-367830",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "MISC",
+    "model": "XP",
+    "stock": "343719",
+    "serial": "3NSRTE870FG491752",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "RC7M",
+    "stock": "347618",
+    "serial": "1P0RC7MCCPP000941",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "3032E",
+    "stock": "351459",
+    "serial": "1LV3032ETKK130008",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "Z915E",
+    "stock": "355169",
+    "serial": "1TC915EAPRR130064",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "Z720E",
+    "stock": "358909",
+    "serial": "1TC720EATPR080110",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "RT3073",
+    "stock": "360093",
+    "serial": "1XFRT30XEM0221854",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "FRONTIER",
+    "model": "RT3081",
+    "stock": "360765",
+    "serial": "1XFRT30XCN0235151",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "520M",
+    "stock": "362289",
+    "serial": "1P0520MXCRD110291",
+    "condition": "New",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "5075E",
+    "stock": "363803",
+    "serial": "1PY5075EHHH102351",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "Z545R",
+    "stock": "364392",
+    "serial": "1GX545RFKNN062325",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "Z950R",
+    "stock": "364858",
+    "serial": "1TC950RGCMT090177",
+    "condition": "Used",
+    "status": "Shop"
+  },
+  {
+    "make": "JOHN DEERE",
+    "model": "X590",
+    "stock": "364979",
+    "serial": "1M0X590FELM160106",
+    "condition": "Used",
+    "status": "Shop"
   }
 ]
