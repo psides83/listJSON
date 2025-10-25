@@ -1,0 +1,44 @@
+{
+  "error": null,
+  "data": [
+    {
+      "ContestantId": 0,
+      "Place": 1,
+      "FirstName": "Laramie",
+      "LastName": "Johnson",
+      "Hometown": "Shreveport, LA",
+      "Earnings": 2217.64,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 2217.64,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 2,
+      "FirstName": "Morgan",
+      "LastName": "Sparks",
+      "Hometown": "Marthaville, LA",
+      "Earnings": 971.49,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 971.49,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 3,
+      "FirstName": "Leann",
+      "LastName": "Thomas",
+      "Hometown": "Benton, AR",
+      "Earnings": 107.16,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 107.16,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    }
+  ]
+}
