@@ -1,0 +1,44 @@
+{
+  "error": null,
+  "data": [
+    {
+      "ContestantId": 0,
+      "Place": 1,
+      "FirstName": "Brianna",
+      "LastName": "Dunbar",
+      "Hometown": "Hudson Falls, NY",
+      "Earnings": 634.5,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 634.5,
+      "SeasonYear": 2020,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 2,
+      "FirstName": "Katie",
+      "LastName": "Wenger",
+      "Hometown": "East Berlin, PA",
+      "Earnings": 549.9,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 549.9,
+      "SeasonYear": 2020,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 3,
+      "FirstName": "Shelby",
+      "LastName": "Nastri",
+      "Hometown": "Ballston Spa, NY",
+      "Earnings": 84.6,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 84.6,
+      "SeasonYear": 2020,
+      "StandingId": 0
+    }
+  ]
+}

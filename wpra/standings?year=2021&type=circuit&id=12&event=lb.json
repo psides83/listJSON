@@ -1,0 +1,44 @@
+{
+  "error": null,
+  "data": [
+    {
+      "ContestantId": 0,
+      "Place": 1,
+      "FirstName": "Lakota",
+      "LastName": "Bird",
+      "Hometown": "Nanton, AB",
+      "Earnings": 1503.06,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 1503.06,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 2,
+      "FirstName": "Bradi",
+      "LastName": "Whiteside",
+      "Hometown": "Longview, AB",
+      "Earnings": 871.38,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 871.38,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    },
+    {
+      "ContestantId": 0,
+      "Place": 3,
+      "FirstName": "Kylie",
+      "LastName": "Whiteside",
+      "Hometown": "Longview, AB",
+      "Earnings": 765.49,
+      "Event": "GB",
+      "Type": "world",
+      "Points": 765.49,
+      "SeasonYear": 2021,
+      "StandingId": 0
+    }
+  ]
+}
