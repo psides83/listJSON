@@ -1,0 +1,1676 @@
+[
+  {
+  "version": "1.0",
+  "program": {
+    "id": "p90x-generation-next-phase-1",
+    "name": "P90X Generation Next",
+    "phase": "Phase 1",
+    "durationWeeks": 4,
+    "daysPerWeek": 7,
+    "equipment": [
+      "Dumbbells",
+      "Adjustable Bench",
+      "Foam Roller",
+      "Pull-Up Bar",
+      "Pull-Up Bar Assist",
+      "Mat (Optional)"
+    ],
+    "optionalFinishers": [
+      "Abs",
+      "Arms",
+      "Glutes",
+      "Shoulders",
+      "Classic Push/Pull"
+    ],
+    "notes": "Train 7 days per week. Plus optional 5-minute post-workout finishers.",
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Push Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Plyometrix",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Upper Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Lower Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Pull Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Lower Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Upper Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Plyometrix",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Push Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Plyometrix",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Upper Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Lower Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "version": "1.0",
+  "program": {
+    "id": "p90x-generation-next-phase-2",
+    "name": "P90X Generation Next",
+    "phase": "Phase 2",
+    "durationWeeks": 4,
+    "daysPerWeek": 7,
+    "equipment": [
+      "Dumbbells",
+      "Adjustable Bench",
+      "Foam Roller",
+      "Pull-Up Bar",
+      "Pull-Up Bar Assist",
+      "Mat (Optional)"
+    ],
+    "optionalFinishers": [
+      "Abs",
+      "Arms",
+      "Glutes",
+      "Shoulders",
+      "Classic Push/Pull"
+    ],
+    "notes": "Train 7 days per week. Plus optional 5-minute post-workout finishers.",
+    "weeks": [
+      {
+        "weekNumber": 5,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Full Body Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Accel/Decel",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Pull Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Full Body Power",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Full Body Power",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Push Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Full Body Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Accel/Decel",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Full Body Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Accel/Decel",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Pull Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Full Body Power",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      }
+    ]
+  }
+},
+  {
+  "version": "1.0",
+  "program": {
+    "id": "p90x-generation-next-phase-3",
+    "name": "P90X Generation Next",
+    "phase": "Phase 3",
+    "durationWeeks": 5,
+    "daysPerWeek": 7,
+    "equipment": [
+      "Dumbbells",
+      "Adjustable Bench",
+      "Foam Roller",
+      "Pull-Up Bar",
+      "Pull-Up Bar Assist",
+      "Mat (Optional)"
+    ],
+    "optionalFinishers": [
+      "Abs",
+      "Arms",
+      "Glutes",
+      "Shoulders",
+      "Classic Push/Pull"
+    ],
+    "notes": "Train 7 days per week. Plus optional 5-minute post-workout finishers.",
+    "weeks": [
+      {
+        "weekNumber": 9,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Upper Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Plyometrix",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Push Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Lower Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 10,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Full Body Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Accel/Decel",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Pull Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Full Body Power",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 11,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Lower Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Pull Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Upper Body",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Plyometrix",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 12,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Full Body Power",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Push Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Full Body Strength",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Accel/Decel",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Myofascial Release",
+            "appleWorkoutActivityType": "flexibility"
+          }
+        ]
+      },
+      {
+        "weekNumber": 13,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Active Flexibility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Cardio Boxing",
+            "appleWorkoutActivityType": "kickboxing"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Active Mobility",
+            "appleWorkoutActivityType": "flexibility"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Core Circuit",
+            "appleWorkoutActivityType": "coreTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Speed and Agility",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": null,
+            "appleWorkoutActivityType": null
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "version": "1.0",
+  "program": {
+    "id": "p90-sweat-cardio-based-schedule",
+    "name": "P90",
+    "phase": "SWEAT (Cardio-Based Schedule)",
+    "durationWeeks": 13,
+    "daysPerWeek": 7,
+    "equipment": [],
+    "optionalFinishers": [],
+    "notes": "Follow the schedule as shown on the calendar.",
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat A + Ab Ripper A (Take Day 1 photos + measurements)",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 5,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt B (Take Day 30 photos + measurements)",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 9,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt C (Take Day 60 photos + measurements)",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 10,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 11,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest (Decide which program to do next)",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 12,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 13,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Sculpt C (Take Day 90 photos + measurements)",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Submit Results / Next Program Prep",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "version": "1.0",
+  "program": {
+    "id": "p90-sculpt-resistance-based-schedule",
+    "name": "P90",
+    "phase": "SCULPT (Resistance-Based Schedule)",
+    "durationWeeks": 13,
+    "daysPerWeek": 7,
+    "equipment": [],
+    "optionalFinishers": [],
+    "notes": "Follow the schedule as shown on the calendar.",
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt A (Take Day 1 photos + measurements)",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 5,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat B + Ab Ripper B (Take Day 30 photos + measurements)",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 6,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 7,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 8,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 9,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat C + Ab Ripper C (Take Day 60 photos + measurements)",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 10,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 11,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest (Decide which program to do next)",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 12,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat C + Ab Ripper C",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Saturday Special",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Rest",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      },
+      {
+        "weekNumber": 13,
+        "days": [
+          {
+            "dayOfWeek": "monday",
+            "workout": "Sculpt A",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "tuesday",
+            "workout": "Sweat A + Ab Ripper A",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "wednesday",
+            "workout": "Sculpt B",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "thursday",
+            "workout": "Sweat B + Ab Ripper B",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "friday",
+            "workout": "Sculpt C",
+            "appleWorkoutActivityType": "traditionalStrengthTraining"
+          },
+          {
+            "dayOfWeek": "saturday",
+            "workout": "Sweat C + Ab Ripper C (Take Day 90 photos + measurements)",
+            "appleWorkoutActivityType": "highIntensityIntervalTraining"
+          },
+          {
+            "dayOfWeek": "sunday",
+            "workout": "Submit Results / Next Program Prep",
+            "appleWorkoutActivityType": null
+          }
+        ]
+      }
+    ]
+  }
+}
+]
