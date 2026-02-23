@@ -1,4 +1,5 @@
-{
+[
+  {
   "version": "1.0",
   "program": {
     "id": "p90x-generation-next-phase-1",
@@ -186,3 +187,4 @@
     ]
   }
 }
+]
